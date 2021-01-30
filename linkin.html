@@ -1,0 +1,16 @@
+---
+title: Links
+layout: linkin
+---
+
+<div class="linkin">
+		<div class="grid-container">
+		{% for link in site.data.linkin %}
+			<div class="grid-item">
+			  <a href="{{link.targetUrl}}" alt="{{link.altText}}">
+			    <img src="{{site.baseurl}}{{link.imageUrl}}" alt="{{link.altText}}">
+			  </a>
+			</div>
+		{% endfor %}
+	</div>
+</div>

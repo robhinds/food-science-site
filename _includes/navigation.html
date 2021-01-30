@@ -1,0 +1,19 @@
+<nav>
+	{% for link in site.data.navigation %}
+	{% assign class = "" %}
+	{% assign target = "" %}
+
+		{% if link.link == page.url %}
+			{% assign class = class | append: " active" %}
+		{% endif %}
+		{% if link.mobile == false %}
+			{% assign class = class | append: " removemobile" %}
+		{% endif %}
+		{% if link.external == true %}
+			{% assign target = target | append: "target='_blank'" %}
+		{% endif %}
+		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {{ target }}>
+			{{ link.name }}
+		</a>
+	{% endfor %}
+</nav>

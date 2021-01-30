@@ -1,0 +1,40 @@
+<aside class="sidebar {% if page.push_sidebar_down %}push{% endif %}">
+	<div class="author">
+		<p>
+			<a href="{{ site.baseurl }}/about/">
+				<picture>
+				  <source srcset="{{ site.baseurl }}{{ site.data.sidebar.author_image_webp }}" type="image/webp">
+				  <source srcset="{{ site.baseurl }}{{ site.data.sidebar.author_image }}" type="image/jpeg">
+				  <img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}"  alt="author" class="author">
+				</picture>
+			</a>
+		</p>
+		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
+	</div>
+
+	<div class="social-icons">
+		{% if site.data.sidebar.facebook && site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
+		{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %}
+		{% if site.data.sidebar.pinterest && site.data.sidebar.pinterest != "" %}<a target="_blank" href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest" %}</a>{% endif %}
+		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %}
+		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+	</div>
+
+	<br/>
+	<h3 style="text-align: center;">What you looking for?</h3>
+	<p style="text-align: center;"><a href="{{ site.baseurl }}/" >Home</a></p>
+	<p style="text-align: center;"><a href="{{ site.baseurl }}/recipes" >Recipes</a></p>
+	<p style="text-align: center;"><a href="{{ site.baseurl }}/science" >Science</a></p>
+	<p style="text-align: center;"><a href="{{ site.baseurl }}/reviews" >Reviews</a></p>
+	<p style="text-align: center;"><a href="{{ site.baseurl }}/about/" >About</a></p>
+	<p style="text-align: center;"><a href="https://www.instagram.com/robbishfood/" target="_blank">Instagram</a></p>
+	<p style="text-align: center;"><a href="https://www.redbubble.com/people/RobbishFood/shop?asc=u" target="_blank">Shop</a></p>
+
+	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
+		<h3>Newsletter</h3>
+		<p>Get my latest recipes sent straight to your inbox.</p>
+		<input type="text" name="EMAIL" placeholder="Email address">
+		<input type="submit" value="Sign up">
+	</form>
+	{% endif %}
+</aside>

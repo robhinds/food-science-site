@@ -1,0 +1,17 @@
+---
+title: Food Science
+image_view: true
+---
+<h1>Food Science</h1>
+
+
+
+{% if page.image_view %}
+	{% for article in site.categories.science %}
+		<div class="recipes">
+				<div class="recipe" style="background-image: url('{{ article.featured_image }}')">
+					<a href="{{ site.baseurl }}{{ article.url }}"><span>{{ article.title }}</span></a>
+				</div>
+		</div>
+	{% endfor %}
+{% endif %}
