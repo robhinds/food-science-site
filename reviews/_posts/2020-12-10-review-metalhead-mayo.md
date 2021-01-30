@@ -7,7 +7,7 @@ featured_image: "/images/metalheadmayo.jpg"
 recipe:
 ---
 
-_<a href="{{site.baseurl}}/about">See my product review outlook here</a>_
+_<a href="{{site.baseurl}}/about#product-reviews">See my product review outlook here</a>_
 
 I am ever so pleased to see the craze of _burger sauce_ hitting the mainstream in the last few years.
 
