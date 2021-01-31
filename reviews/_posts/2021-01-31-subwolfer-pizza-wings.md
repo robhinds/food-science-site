@@ -3,8 +3,6 @@ date: 2021-01-31
 title: Product review&#58; Pizza Wings by Rubwolfer
 layout: review-post
 categories:
-sitemap: false
-hidden: true
 featured_image: /images/pizzawing.jpg
 recipe:
 ---
