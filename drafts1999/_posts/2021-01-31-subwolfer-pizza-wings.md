@@ -11,7 +11,7 @@ recipe:
 
 _<a href="{{site.baseurl}}/about#product-reviews">See my product review outlook here</a>_
 
-<a href="https://www.subwolfer.co.uk" target="_blank">Rubwolfer (part of the Subwolfer family)</a> is another business that I have discovered through the Instagram BBQ community. Launched in 2020 by <a href="https://www.instagram.com/brewshackbbq/" target="_blank">BrewshackBBQ</a>, initially with just a couple of rubs, the range has expanded with a few more rubs plus a set of collaboration sauces with <a href="https://www.robbishfood.com/reviews/2020/12/10/review-metalhead-mayo/" target="_blank">UrbanStreatery (of Metalhead Mayo fame)</a>.
+<a href="https://www.subwolfer.co.uk?utm_source=robbishfood" target="_blank">Rubwolfer (part of the Subwolfer family)</a> is another business that I have discovered through the Instagram BBQ community. Launched in 2020 by <a href="https://www.instagram.com/brewshackbbq/" target="_blank">BrewshackBBQ</a>, initially with just a couple of rubs, the range has expanded with a few more rubs plus a set of collaboration sauces with <a href="https://www.robbishfood.com/reviews/2020/12/10/review-metalhead-mayo/" target="_blank">UrbanStreatery (of Metalhead Mayo fame)</a>.
 
 I have had a few of the rubs as well as all the collaboration sauces, but this review is focussing on one of their earliest launched rubs: _Pizza Wings_.
 
@@ -35,4 +35,4 @@ It has been noted that over longer, or hotter cooks, some of the ingredients can
 <br>
 <br>
 
-You can purchase _Pizza Wings_ plus other rubs and sauces <a href="https://www.subwolfer.co.uk/shop/p/rub-wolfer-pizza-wings-50g-pouch" target="_blank">direct from the SubWolfer website</a> (where Metalhead Mayo is also available, if you were placing an order!)
+You can purchase _Pizza Wings_ plus other rubs and sauces <a href="https://www.subwolfer.co.uk/shop/p/rub-wolfer-pizza-wings-50g-pouch?utm_source=robbishfood" target="_blank">direct from the SubWolfer website</a> (where Metalhead Mayo is also available, if you were placing an order!)
