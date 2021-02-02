@@ -5,6 +5,7 @@ categories:
  - howto
 layout: recipe-post
 featured_image: /images/linkin/babybacks.jpg
+image: /images/linkin/babybacks.jpg
 recipe:
   servings: 1 rack of ribs
   prep: 10 minutes

@@ -5,6 +5,7 @@ title: Ultimate fake-away doner kebab at home
 categories:
   - kebabs
 featured_image: /images/linkin/kebabs.jpg
+image: /images/linkin/kebabs.jpg
 how_to_description: How-to make a doner kebab at home
 how_to_name: How-to make a doner kebab at home
 recipe:

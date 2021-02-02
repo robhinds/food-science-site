@@ -5,6 +5,7 @@ title: KFC at home - Ultimate fried chicken burgers
 categories:
   - fried-chicken
 featured_image: /images/linkin/friedchicken.jpg
+image: /images/linkin/friedchicken.jpg
 how_to_description: How-to make KFC style fried chicken at home
 how_to_name: How-to make KFC style fried chicken at home
 recipe:

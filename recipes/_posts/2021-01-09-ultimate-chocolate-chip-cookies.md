@@ -5,6 +5,7 @@ title: Ultimate Chocolate Chip Cookies
 categories:
   - Cookies
 featured_image: /images/linkin/cookie.jpg
+image: /images/linkin/cookie.jpg
 how_to_description: How-to make choc chip cookies
 how_to_name: How-to make choc chip cookies
 recipe:

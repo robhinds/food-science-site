@@ -6,6 +6,7 @@ categories:
 sitemap: false
 hidden: true
 featured_image: /images/linkin/hot-and-fast.jpg
+image: /images/linkin/hot-and-fast.jpg
 recipe:
 ---
 

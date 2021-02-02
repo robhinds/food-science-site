@@ -5,6 +5,7 @@ title: BBQ smoked pork cheeks
 categories:
   - bbq
 featured_image: /images/linkin/porkcheeks.jpg
+image: /images/linkin/porkcheeks.jpg
 how_to_description: How-to smoke BBQ pork cheeks, low and slow
 how_to_name: How-to BBQ pork cheeks
 recipe:

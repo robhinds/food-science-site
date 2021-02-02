@@ -5,6 +5,7 @@ title: McDonalds McRib burer at home
 categories:
   - burgers
 featured_image: /images/linkin/mcrib.jpg
+image: /images/linkin/mcrib.jpg
 how_to_description: How-to make a McDonalds McRib burger at home
 how_to_name: How-to make a McDonalds McRib burger at home
 recipe:

@@ -4,6 +4,7 @@ title: Homemade chocolate ice-cream thats Better than Ben & Jerry's
 layout: recipe-post
 categories:
 featured_image: "/images/chocolateicecream2.jpg"
+image: "/images/chocolateicecream2.jpg"
 how_to_description: How-to make Ben and Jerrys style chocolate ice cream
 how_to_name: How-to make Ben and Jerrys style chocolate ice cream
 recipe:

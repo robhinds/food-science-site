@@ -5,6 +5,7 @@ title: 4th Best Chilli in the UK
 categories:
   - Chilli
 featured_image: /images/chillicook.jpg
+image: /images/chillicook.jpg
 how_to_description: How to make a competition style, slow cooked chilli con carne
 how_to_name: How to cook a slow cooked chilli con carne
 recipe:

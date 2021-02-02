@@ -5,5 +5,6 @@ categories:
 sitemap: false
 hidden: true
 featured_image: /images/linkin/babybacks.jpg
+image: /images/linkin/babybacks.jpg
 recipe:
 ---
