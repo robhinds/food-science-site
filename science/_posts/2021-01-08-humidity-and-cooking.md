@@ -3,6 +3,7 @@ date: 2021-01-08
 title: The science behind humidity and liquid in cooking
 categories:
 layout: post
+image: /images/humidity.jpg
 featured_image: /images/humidity.jpg
 recipe:
 faqSchema:
