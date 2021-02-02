@@ -5,6 +5,7 @@ title: Reverse sear fried chicken A.K.A Sous-vide Fried Chicken (SVFC)
 layout: recipe-post
 categories:
 featured_image: "/images/linkin/reversesearfriedchicken.jpg"
+image: "/images/linkin/reversesearfriedchicken.jpg"
 recipe:
   servings: 4 fried chicken burgers, scale appropriately as you need!
   prep: 10 minutes

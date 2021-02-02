@@ -5,6 +5,7 @@ title: Sous-vide & BBQ Christmas turkey
 layout: post
 categories:
 featured_image: "/images/linkin/christmasdinner.jpg"
+image: "/images/linkin/christmasdinner.jpg"
 recipe:
 faqSchema:
   - title: "What is sous vide cooking?"

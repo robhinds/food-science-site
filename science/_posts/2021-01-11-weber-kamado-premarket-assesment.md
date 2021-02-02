@@ -5,6 +5,7 @@ title: Weber Summit Kamado - Pre-market assesment (the science of kamado cooking
 layout: post
 categories:
 featured_image: "/images/summit.png"
+image: "/images/summit.png"
 recipe:
 faqSchema:
   - title: "What is a kamado grill?"

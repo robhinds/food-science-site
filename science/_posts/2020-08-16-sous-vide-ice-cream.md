@@ -5,6 +5,7 @@ title: Sous vide ice cream
 layout: post
 categories:
 featured_image: "/images/linkin/sousvideicecream.jpg"
+image: "/images/linkin/sousvideicecream.jpg"
 recipe:
   servings: 1 tub of ice cream
   prep: 5 minutes

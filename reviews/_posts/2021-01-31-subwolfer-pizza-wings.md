@@ -4,6 +4,7 @@ title: Product review&#58; Pizza Wings by Rubwolfer
 layout: review-post
 categories:
 featured_image: /images/pizzawing.jpg
+image: /images/pizzawing.jpg
 recipe:
 ---
 

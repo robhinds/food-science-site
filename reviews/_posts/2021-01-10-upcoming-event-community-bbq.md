@@ -5,6 +5,7 @@ title: Upcoming Event&#58; Community BBQ group cook
 layout: review-post
 categories:
 featured_image: "/images/groupcooknhs.jpg"
+image: "/images/groupcooknhs.jpg"
 recipe:
 ---
 

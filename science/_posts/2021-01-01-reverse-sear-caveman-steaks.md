@@ -5,6 +5,7 @@ title: Science of reverse sear & caveman steaks
 layout: post
 categories:
 featured_image: "/images/linkin/dirtytomahawk.jpg"
+image: "/images/linkin/dirtytomahawk.jpg"
 recipe:
 faqSchema:
   - title: "What is a tomahawk steak?"

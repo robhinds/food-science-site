@@ -4,6 +4,7 @@ title: Product review&#58; Metalhead Mayo by UrbanStreatery
 layout: review-post
 categories:
 featured_image: "/images/metalheadmayo.jpg"
+image: "/images/metalheadmayo.jpg"
 recipe:
 ---
 
