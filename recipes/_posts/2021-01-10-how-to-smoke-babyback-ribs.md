@@ -35,6 +35,8 @@ faqSchema:
 
 Pork ribs are a great place to get started on your low-and-slow BBQ adventure. They are a usually pretty reasonably priced, a pretty forgiving, quick cook and always a crowd pleaser. This is a simple how-to on cooking pork ribs - I will mostly talk about babyback ribs, but the same principle applies to other pork ribs, such as spare-ribs (sometimes called St Louis cut ribs), but the timing on each step might be a little bit longer.
 
+All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
+
 <br>
 <br>
 

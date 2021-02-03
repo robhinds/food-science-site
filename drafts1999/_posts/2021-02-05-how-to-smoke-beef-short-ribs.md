@@ -36,7 +36,7 @@ faqSchema:
     answer: "Beef short ribs (jacobs ladder) are best cooked low and slow between 110-135C/225-275F."
 ---
 
-Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_.
+Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_. All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
 
 I often use short ribs for lots of other cooks too - in chilli-con-carne or generally any slow cooked stew or casserole.
 
