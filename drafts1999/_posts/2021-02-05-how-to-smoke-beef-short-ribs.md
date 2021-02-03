@@ -101,3 +101,6 @@ Competition judges might look down their noses at such a bark, but I certainly d
 Beef short ribs should get to an internal temperature of around 96C/205F - at this point the connective tissue and intramuscular fat should have broken down to create beautifully tender and soft meat, packed with juice and flavour. Once you hit this temperature, you should probe the meat with a temperature probe or skewer, and you should find no resistance as you push it into the meat. If you hit a bit of resistance it is probably some remaining connective tissue that hasn't broken down, and needs a bit longer.
 
 If you do find yourself in this position, you can of course re-wrap and put back on the grill, but another option is to wrap tightly and place into a cool box. The rack of ribs has a fairly significant thermal mass so retains quite a bit of heat energy and will gently continue to cook itself and break down those tissues. You can leave it for over an hour without any issue and should be just fine to serve.
+
+<br>
+<br>
