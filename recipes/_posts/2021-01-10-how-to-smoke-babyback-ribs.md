@@ -24,6 +24,13 @@ recipe:
     - Return to the BBQ and cook for 1 1/2 - 2 hours
     - Remove from the foil and return to the grill to finish off uncovered. If you want to sauce the ribs, apply some BBQ sauce at this point. The sauce should reduce to a sticky consistency during this stage. Cook for a final 30 minutes
     - Check for done-ness using the bend test (see the video above)
+faqSchema:
+  - title: "How long should I smoke pork ribs for?"
+    answer: "The normal method for smoking pork ribs (either babyback or spare ribs/St Louis cut) is the 3-2-1 method. This is 3 hours smoking, 2 hours wrapped then a final hour unwrapped again, totalling 6 hours. For babyback ribs you can usually reduce the timing on each section and can easily be done in as little as 4 hours, depending on how meaty they are."
+  - title: "How to tell if pork ribs are cooked?"
+    answer: "Because the meat is quite thin on pork ribs, rather than using an internal temperature probe, doneness is checked by something called the 'bend test' - you gently pick up the ribs at one end and let them bend. If they are done they should gently crack the surface a little."
+  - title: "What temperature should I smoke pork ribs at?"
+    answer: "Pork ribs (babyback ribs, st louis cut, pork spare ribs) are best cooked low and slow between 110-135C/225-275F."
 ---
 
 Pork ribs are a great place to get started on your low-and-slow BBQ adventure. They are a usually pretty reasonably priced, a pretty forgiving, quick cook and always a crowd pleaser. This is a simple how-to on cooking pork ribs - I will mostly talk about babyback ribs, but the same principle applies to other pork ribs, such as spare-ribs (sometimes called St Louis cut ribs), but the timing on each step might be a little bit longer.
@@ -56,7 +63,7 @@ If you leave these on, they will be a bit chewy on the bottom, but not the worst
 ### 2.2 Apply dry rub
 Normally, before I apply my dry rub, I will apply a layer of yellow mustard (French's oh Heinz) - this will just help the rub stick to the ribs a bit better, the mustard flavour won't be noticeable after cooking so you don't need to worry about people not liking that taste.
 
-Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you want to make your own rubs then there are lots of recipes and options you can do, but if you want to play it safe for the first cook then a pre-bought rub is probably a good option. Angus & Oink here in the UK make lots of great rubs, and for pork ribs I'd highly recommend <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/pigasus" target="_blank">Pigasus<a/>, <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/sweet-bones-butts-bbq-rub" target="_blank">Sweet Butts & Bones</a> or <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/irn-bru-bbq-rub" target="_blank">IRN BBQ</a>!
+Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you want to make your own rubs then there are lots of recipes and options you can do, but if you want to play it safe for the first cook then a pre-bought rub is probably a good option. Angus & Oink here in the UK make lots of great rubs, and for pork ribs I'd highly recommend <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/pigasus?utm_source=robbishfood" target="_blank">Pigasus<a/>, <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/sweet-bones-butts-bbq-rub?utm_source=robbishfood" target="_blank">Sweet Butts & Bones</a> or <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/irn-bru-bbq-rub?utm_source=robbishfood" target="_blank">IRN BBQ</a>!
 
 <br>
 <br>
