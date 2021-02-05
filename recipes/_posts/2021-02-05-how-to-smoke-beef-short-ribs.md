@@ -1,8 +1,6 @@
 ---
 date: 2021-02-05
 title: How-to BBQ&#58; Low-and-slow smoked beef short ribs
-sitemap: false
-hidden: true
 categories:
  - howto
 layout: recipe-post
