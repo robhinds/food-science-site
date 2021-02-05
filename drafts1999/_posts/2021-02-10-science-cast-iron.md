@@ -4,6 +4,7 @@ title: Science&#58; Cooking & BBQ with cast iron
 categories:
 sitemap: false
 hidden: true
+layout: post
 featured_image: /images/linkin/castiron.jpg
 image: /images/linkin/castiron.jpg
 recipe:
@@ -23,7 +24,7 @@ Common type of iron varies across the world - in some countries when people talk
 
 You can buy both, with similar, yet of course, slightly different properties.
 
-A cast iron pan is one that was made by pouring molten iron into a cast/mould and letting it cool in shape. Wrought iron pans, on the other hand, are made by heating a piece of iron so its more malleable and then hitting it into shape. Wrought iron is actually stronger than cast iron, as the process of heating + hammering actually strengthens it each time. Whilst cast iron is more brittle, for cooking applications its unlikely that you are going to be doing anything so strenuous that it damages it though. Cast iron, has the advantage though, as it is generally thicker and heavier than wrought iron pans can get (this is also a disadvantage if you want some benefits of cooking on iron but lighter weight then wrought iron cookware may be worth looking at).
+A cast iron pan is one that was made by pouring molten iron into a cast/mould and letting it cool in shape. Wrought iron pans, on the other hand, are made by heating a piece of iron so its more malleable and then hammering it into shape. Wrought iron is actually stronger than cast iron, as the process of heating + hammering actually strengthens it each time. Whilst cast iron is more brittle, for cooking applications its unlikely that you are going to be doing anything so strenuous that it damages it though. Cast iron, has the advantage though, as it is generally thicker and heavier than wrought iron pans can get (this is also a disadvantage if you want some benefits of cooking on iron but lighter weight then wrought iron cookware may be worth looking at).
 <br>
 <br>
 
