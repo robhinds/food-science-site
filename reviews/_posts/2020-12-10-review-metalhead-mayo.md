@@ -14,7 +14,9 @@ I am ever so pleased to see the craze of _burger sauce_ hitting the mainstream i
 
 _Burger sauce_ a.k.a _Dirty burger sauce_ a.k.a _<a href="https://youtu.be/QkB-rpAUbK8?t=6" target="_blank">Special sauce</a>_ has been a common condiment in burger chains and restaurants for some time, but it was just a few short years ago that if you wanted some kind of _dirty burger sauce_ at home, you were left trying to make it for yourself - normally resorting to some varying mix of ketchup, mayo and whatever kind of BBQ spices you could find to throw in.
 
-Thankfully, _burger sauce_ in all sorts of varieties has very much hit the mainstream with major supermarket chains selling multiple brands of the stuff. This is a good thing. Some of them are a bit of a let down (Hellmans Burger sauce), some of them taste overly artificial (Heinz Baconnaise), but so far all that I have tasted have been better than nothing. Some of them are really quite different, but really good - <a href="https://shop.truebarbecue.com/collections/sauces/products/reds-dirty-burger-sauce?utm_source=robbishfood" target="_blank">Reds Dirty Burger Sauce</a> being a good example of this - it really tastes quite different to what you'd expect from a burger sauce, but it really is good.
+Thankfully, _burger sauce_ in all sorts of varieties has very much hit the mainstream with major supermarket chains selling multiple brands of the stuff. This is a good thing. Some of them are a bit of a let down (Hellmans Burger sauce), some of them taste overly artificial (Heinz Baconnaise), but so far all that I have tasted have been better than nothing. Some of them are really quite different, sauces such as <a href="https://shop.truebarbecue.com/collections/sauces/products/reds-dirty-burger-sauce?utm_source=robbishfood" target="_blank">Reds Dirty Burger Sauce</a> are really not the flavour profile you'd expect, but its still a really great sauce.
+
+This is all to say, I am something of a _Special Sauce_ fan, and have got through a fair range of them. Almost a special/burger sauce connoisseur, you might even say (haha, not really, but I have eaten a tonne of the stuff).
 <br>
 <br>
 

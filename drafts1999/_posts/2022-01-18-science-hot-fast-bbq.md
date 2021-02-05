@@ -1,7 +1,6 @@
 ---
-date: 2021-02-05
-title: Charcoal lumpwood and briquettes a rundown
-layout: review-post
+date: 2021-01-18
+title: The science of hot-and-fast BBQ
 categories:
 sitemap: false
 hidden: true
@@ -9,3 +8,7 @@ featured_image: /images/linkin/babybacks.jpg
 image: /images/linkin/babybacks.jpg
 recipe:
 ---
+
+Hot-and-fast BBQ science.
+
+<br>
