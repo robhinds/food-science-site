@@ -30,8 +30,10 @@ faqSchema:
     answer: "Smoking beef ribs low and slow can easily take 8+ hours. Exact timing will depend on the size of the ribs, cooking temperature and other factors. You should cook by internal temperature, not time, but allow at least 8 hours for the cook (allowing longer is a safer option)"
   - title: "How to tell if beef short ribs are cooked?"
     answer: "Beef short ribs should reach an internal temperature of 96C/205F, and when probed with a temperature probe (or skewer) they should offer little resistance (they should 'probe like button')"
-  - title: "What temperature should I smoke pork ribs at?"
+  - title: "What temperature should I smoke beef short ribs at?"
     answer: "Beef short ribs (jacobs ladder) are best cooked low and slow between 110-135C/225-275F."
+  - title: "How do I cook boneless beef short ribs?"
+    answer: "Boneless beef short ribs, and individual beef short ribs, can be cooked exactly the same way - and the same way as a rack of beef short ribs (jacobs ladder) - the only difference will be the cook times will be significantly reduced. Boneless beef short ribs are best cooked low and slow between 110-135C/225-275F."
 ---
 
 Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_. All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
@@ -73,7 +75,7 @@ Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting 
 <br>
 
 ## 3. How to smoke beef short ribs
-I am always wary when writing up BBQ recipes - I have several BBQ cook books, and inevitably they get to recipes for cooks such as beef short ribs, or beef brisket and the instruction is basically: _cook on indirect heat for 8-10 hours until done).  In terms of describing the steps there really isn't much to it, but when it comes to actually cooking the results and timing can vary quite a bit.
+I am always wary when writing up BBQ recipes - I have several BBQ cook books, and inevitably they get to recipes for cooks such as beef short ribs, or beef brisket and the instruction is basically: _cook on indirect heat for 8-10 hours until done_).  In terms of describing the steps there really isn't much to it, but when it comes to actually cooking the results and timing can vary quite a bit.
 
 Thankfully, if you know how to low-and-slow smoke a large, tough cut of meat (short ribs, brisket, pork butt) then you know them all - the science behind these cuts are all the same. We are cooking low and slow, so we can gradually reach our target internal temperature (96C/205F) that is enough to have melted all the connective tissue to make it beautifully soft, tender and tasty. The variation between them is just the times it takes.
 
@@ -81,6 +83,9 @@ Unwrapped, just cooking indirect low-and-slow (grill temp at 110-135C/225-275F) 
 <br>
 
 We may find that we inevitably hit a _stall_ in cooking (that is when the internal temperature suddenly stops increasing through the cook) - this can last varying times, which adds more uncertainty to the length of the cook!
+<br>
+
+The cook remains the same, timing aside, if you are cooking individual bone beef ribs or if you are smoking boneless beef ribs (which are smaller, due to not having a bone). Individual beef short ribs and boneless beef short ribs will both cook quicker than a rack of three bone-in ribs because the shortest distance to the thickest part of the meat is smaller.
 
 <br>
 <br>
