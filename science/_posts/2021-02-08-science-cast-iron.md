@@ -1,9 +1,7 @@
 ---
-date: 2021-02-10
+date: 2021-02-08
 title: Science&#58; Cooking & BBQ with cast iron
 categories:
-sitemap: false
-hidden: true
 layout: post
 featured_image: /images/linkin/castiron.jpg
 image: /images/linkin/castiron.jpg
@@ -50,3 +48,23 @@ If you had a regular copper or aluminium pan, these metals are a bit like the op
 If you do the same thing on a cast iron pan, it will take longer to be searing hot (maybe 10 minutes before the entire base of the pan is evenly hot), but in that time the cast iron has been able to store up a lot more energy (because it has a much higher thermal mass that copper/aluminium). Drop a steak on a hot cast iron pan and it might not even register any temperature change. The cast iron has plenty of heat energy that it can just keep applying to that steak. This is why cast iron pans are so great for restaurant quality steaks, and why BBQ grills often have cast iron options for searing.
 
 (* aluminium actually has a higher heat capacity than iron, but because iron is far denser, it means it can retain a lot more heat energy at the same temperature)
+<br>
+<br>
+
+## 4. How should I season my cast iron pan?
+The first thing to mention is _seasoning_. As we have covered, cast iron is highly reactive, which also means it is very quick to rust if not treated correctly. As well as risk of rusting, if not treated correctly food will stick to it pretty strongly.
+
+To help protect against rust, and to help improve non-stick properties, we can _season_ the metal. The good news is this treatment process is very simple, and furthermore, regular use of your cast iron pans with oil and at high temperatures (the best way to use cast iron!) will become self-seasoning and over the years will become well seasoned and non-stick.
+
+Seasoning of cast iron is basically the heating of fat so that it bonds to the metal forming a tiny polymer layer on the surface. After repeatedly seasoning the pan (and regular use) the layer will have built up to a hard, black protective layer.
+
+So how do we do it?
+1. Wash and dry your pan well with hot soapy water. When drying take care not to leave fibres on the pan from the dish towel, as these can become embedded in your seasoning layer.
+
+2. Apply and rub vegetable oil over all surfaces of the pan (handle and outside), really buff this in well so it doesn't appear greasy and there aren't pools or drips of oil if you leave it to sit. If there is too much oil at this stage it will be unstable once solidified in seasoning process and will be more likely to flake - The goal is to create a good layer of seasoning through re-application of microscopic layers, rather than applying a thick layer with too much oil.
+
+3. Put the pan upside down in your oven and heat to the hottest it will go (around 220C), heat it for about 30 minutes (once oven has reached temperature). This step may cause considerable amounts of smoke in your kitchen (if doing it inside, obviously less of an issue if you are doing it in a BBQ), so make sure you have any windows or doors open you can to allow sufficient ventilation.
+
+4. Once time is up, remove from the oven and allow to cool (leave it somewhere safe from prying hands, as it will be really hot, and as now know, iron has a large thermal mass so will remain hot for some time!)
+
+5. Repeat the oil-buff-heat-cool process 3 more times
