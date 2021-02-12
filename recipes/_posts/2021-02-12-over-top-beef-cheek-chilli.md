@@ -1,8 +1,6 @@
 ---
 date: 2021-02-12
 title: Over-the-top beef cheek chilli
-sitemap: false
-hidden: true
 categories:
 layout: recipe-post
 featured_image: /images/chilli.jpg
