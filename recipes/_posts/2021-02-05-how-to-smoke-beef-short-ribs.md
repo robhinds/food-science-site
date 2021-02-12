@@ -4,8 +4,8 @@ title: How-to BBQ&#58; Low-and-slow smoked beef short ribs
 categories:
  - howto
 layout: recipe-post
-featured_image: /images/linkin/beefshortribs.jpg
-image: /images/linkin/beefshortribs.jpg
+featured_image: /images/beefshortribs.jpg
+image: /images/beefshortribs.jpg
 recipe:
   servings: 1 rack, three bone-in beef ribs (4-6 people)
   prep: 10 minutes
