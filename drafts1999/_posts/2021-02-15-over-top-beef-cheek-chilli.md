@@ -5,8 +5,8 @@ sitemap: false
 hidden: true
 categories:
 layout: recipe-post
-featured_image: /images/linkin/beefshortribs.jpg
-image: /images/linkin/beefshortribs.jpg
+featured_image: /images/ottchilli.jpg
+image: /images/ottchilli.jpg
 recipe:
   servings: 4 people
   prep: 20 minutes
