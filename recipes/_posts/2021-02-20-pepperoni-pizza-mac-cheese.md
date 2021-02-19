@@ -1,14 +1,12 @@
 ---
-date: 2021-02-05
-title: Pepperoni mac'n'cheese
-sitemap: false
-hidden: true
+date: 2021-02-19
+title: Pepperoni pizza mac'n'cheese
 categories:
 layout: recipe-post
 featured_image: /images/macncheesepizza.jpg
 image: /images/macncheesepizza.jpg
 recipe:
-  servings: Two people
+  servings: 4 people
   prep: 10 minutes
   cook: 10 - 40 minutes (depending if you decide to bake)
   ingredients_markdown:
@@ -71,17 +69,20 @@ All we need to do is gradually whisk in the milk. Keeping the pan over the heat 
 The final step is to transform our béchamel sauce into a cheese sauce - once all the milk has been added and whisked, and is heated to a decent simmer, we simply take the sauce off the heat and add the cheese. Stir the grated cheese through and the residual heat (thermal mass! it gets everywhere when we think about it) of the sauce will gently melt the cheese and it will all come together.
 
 The important part here to get a great mac'n'cheese is the cheese you use. I always prefer an extra mature (sharp) cheddar - they don't ordinarily melt as well as younger cheddar, but it will melt just fine in the sauce, and using a stronger cheese will make all the difference in the cheese sauce.
+
 <br>
 <br>
 
 ## 2. Mac'n'cheese extras
-This particular creation was an attempt to recreate pepperoni pizza on mac'n'cheese. I used some good quality chorizo (it should have been pepperoni, for obvious reasons, but I didn't have any to hand, and good quality chorizo provides similar qualities) and also topped it with Pizza Wings rub from SubWolfer (<a href="">see my review here</a>) which brings a pizza sauce flavour profile with dried tomato powder and Italian herbs. Really though, the idea was just a novelty idea - adding additional chorizo to the mac'n'cheese as well as additional flavours to the crust.
+This particular creation was an attempt to recreate pepperoni pizza on mac'n'cheese. I used some good quality chorizo (it should have been pepperoni, for obvious reasons, but I didn't have any to hand, and good quality chorizo provides similar qualities) and also topped it with Pizza Wings rub from SubWolfer (<a href="https://www.robbishfood.com/reviews/2021/01/31/subwolfer-pizza-wings/">see my review here</a>) which brings a pizza sauce flavour profile with dried tomato powder and Italian herbs. Really though, the idea was just a novelty idea - adding additional chorizo to the mac'n'cheese as well as additional flavours to the crust.
 
-There are loads more great combinations possible though!
+There are loads more great combinations possible though..
 
-- Baked with a crumb/crust - For sure my favourite approach for finishing the dish. I pretty much always opt to further bake the mac'n'cheese, and I always like to top it with something to form the crust. The high street sandwich chain used to do an amazing jalapeño breadcrumb topping options. Bread crumbs, BBQ rub, dried herbs and more cheese (mozzarella a good option) all work well. Bake for 20 - 40 mins until the crust is browned/melted.
+- Baked with a crumb/crust - For sure my favourite approach for finishing the dish. I pretty much always opt to further bake the mac'n'cheese, and I always like to top it with something to form the crust. The high street sandwich chain EAT used to do an amazing jalapeño breadcrumb topping options. Bread crumbs, BBQ rub, dried herbs and more cheese (mozzarella a good option) all work well. Bake for 20 - 40 mins until the crust is browned/melted.
 
 - Cheese sauce boosters - there are a couple things you can throw in to the sauce to boost the flavour. Good options inclide: a teaspoon of wholegrain mustard, half teaspoon onion powder (if you want a more cheese and onion crisp thing going on), a teaspoon of miso paste (if you think you need a further savoury boost!)
+
+- Mix-up your cheese - Play with different cheeses, they will have different properties (melting points, amount of liquid) so worth experimenting. Throwing in a small amount of blue cheese goes a long way to add more punch to the dish (even if you don't like blue cheese much, the rest of the sauce will take the edge of it a little). Mozzarella makes for a fun addition to get that string-y pull apart effect, but you only need barely a handful before it starts getting silly, so don't go overboard - you want it to pull, but not just to make it ridiculous.
 
 - BBQ/leftover meat - One of the greatest, but simplest additions. Once the sauce is cooked and mixed with the pasta just throw in a couple handfuls (as much as you like really) of leftover meat. Shredded meats like pulled pork, beef rib/cheek/brisket are all great options
 
