@@ -1,8 +1,6 @@
 ---
-date: 2021-02-15
+date: 2021-02-22
 title: Triple chocolate, biscoff stuffed, dirty cookies
-sitemap: false
-hidden: true
 categories:
 layout: recipe-post
 featured_image: /images/dirtycookies.jpg
@@ -34,7 +32,7 @@ recipe:
     - Put the cookie dough in the fridge to rest - cookies always benefit from an overnight rest, but will be delicious if you need to cook them immediately.
     - When ready to cook, wrap the cookie balls individually in foil, shiny side facing in, and place them directly into hot coals (being careful, using gloves/tongs) - you will need to turn them every minute or two and check on them regularly (you can actually tell pretty well how they are getting on by the smell). Cook for about 8 minutes total.
     - Remove the foil balls, open up and serve. Probably with a spoon, and with ice cream.
-    - _If you want to cook these in the oven, just cook them on a baking tray at 160C (fan oven) for 12 - 15 minutes until they are done_
+    - <em>f you want to cook these in the oven, just cook them on a baking tray at 160C (fan oven) for 12 - 15 minutes until they are done</em>
 ---
 
 Dirty cookies are an idea I played with a couple years ago which worked out pretty well, and is basically just for a bit of fun. It isn't quicker particularly than oven cooking cookies, and there is higher risk of them getting pretty badly burnt - but the flipside is the end result is crazily-decadently-good and can be fun if you are entertaining people. If you have been entertaining in the garden at the grill, its quite good fun to whip a couple of these little foil-wrapped balls of decadence straight off the coals for people to dig into.
@@ -43,7 +41,7 @@ Dirty cookies are an idea I played with a couple years ago which worked out pret
 <br>
 
 ## 1. What are Dirty Cookies?
-Dirty cooking is generally cooking food directly on burning coals/wood - now of course, you may well be thinking that the sugar in the cookies would immediately burn, and well yes, you'd be correct. So these aren't true dirty cookies, to prevent immediate burning (and general collapse) of the cookies, we simply wrap the ball of cookie dough in foil before chucking them on.
+<a href="https://www.robbishfood.com/science/2021/01/01/reverse-sear-caveman-steaks/>"Dirty cooking</a> is generally cooking food directly on burning coals/wood - now of course, you may well be thinking that the sugar in the cookies would immediately burn, and well yes, you'd be correct. So these aren't true dirty cookies, to prevent immediate burning (and general collapse) of the cookies, we simply wrap the ball of cookie dough in foil before chucking them on.
 
 Now of course, the foil can only do so much to protect the cookie dough from the high heat, so you need to be pretty attentive cooking these, you want to be turning them every couple minutes, getting more and more frequent towards the end of the cooking. Honestly, sometimes I burn a side of them, but they are always recoverable - either because a little bit of crunchy burnt sugar can be a nice contrast to the soft, warm gooey centre or because you can just eat around that part.
 
