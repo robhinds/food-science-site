@@ -41,7 +41,7 @@ Dirty cookies are an idea I played with a couple years ago which worked out pret
 <br>
 
 ## 1. What are Dirty Cookies?
-<a href="https://www.robbishfood.com/science/2021/01/01/reverse-sear-caveman-steaks/>"Dirty cooking</a> is generally cooking food directly on burning coals/wood - now of course, you may well be thinking that the sugar in the cookies would immediately burn, and well yes, you'd be correct. So these aren't true dirty cookies, to prevent immediate burning (and general collapse) of the cookies, we simply wrap the ball of cookie dough in foil before chucking them on.
+<a href="https://www.robbishfood.com/science/2021/01/01/reverse-sear-caveman-steaks/">Dirty cooking</a> is generally cooking food directly on burning coals/wood - now of course, you may well be thinking that the sugar in the cookies would immediately burn, and well yes, you'd be correct. So these aren't true dirty cookies, to prevent immediate burning (and general collapse) of the cookies, we simply wrap the ball of cookie dough in foil before chucking them on.
 
 Now of course, the foil can only do so much to protect the cookie dough from the high heat, so you need to be pretty attentive cooking these, you want to be turning them every couple minutes, getting more and more frequent towards the end of the cooking. Honestly, sometimes I burn a side of them, but they are always recoverable - either because a little bit of crunchy burnt sugar can be a nice contrast to the soft, warm gooey centre or because you can just eat around that part.
 
