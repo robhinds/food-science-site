@@ -5,8 +5,8 @@ sitemap: false
 hidden: true
 categories:
 layout: recipe-post
-featured_image: /images/brbstack.jpg
-image: /images/brbstack.jpg
+featured_image: /images/brb_stack.jpg
+image: /images/brb_stack.jpg
 recipe:
   servings: 1 Person
   prep: 20 minutes
