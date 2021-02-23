@@ -39,19 +39,19 @@ The whole thing does take quite a lot of time, and for sure one of the hardest p
 
 The overall technique is very simple. We <a href="https://www.robbishfood.com/recipes/howto/2021/02/05/how-to-smoke-beef-short-ribs/">low-and-slow smoke the beef short ribs</a>, then once they are done resting we shred the beef (with forks or your hands, but be careful it will be hot still) and compact the shredded beef into an appropriate sized container. Luckily I have some small-ish round tupperware that does this perfectly (also useful for doing a similar cook with leftover mac'n'cheese!)
 
-![Smokey Mountain Components]({{site.baseurl}}/images/brb_tupperware.jpg)
+![Shredded beef rib compacted into tupperware]({{site.baseurl}}/images/brb_tupperware.jpg)
 
 <br>
 
 We then leave that to cool - the fat and juices will solidify and do a reasonable job holding the patty together (but still be careful handling it). We then dip the patty in an egg wash before coating in seasoned breadcrumbs. Once coated we gently shallow fry (you could also deep fry) - Mine wasn't quite back up to temp in the centre (it was quite a tall burger!) so I simply popped it in the oven at 180C for a while until it was heated through.
 
-![Smokey Mountain Components]({{site.baseurl}}/images/brb_coating.jpg)
+![Beef rib patty ready to be coated]({{site.baseurl}}/images/brb_coating.jpg)
 
 <br>
 
 Served up with a simple cheese and BBQ sauce combo - nothing too extravagant as the smoked short rib is doing the work on this one!
 
-![Smokey Mountain Components]({{site.baseurl}}/images/brb_crosssec.jpg)
+![Beef short rib burger cross section]({{site.baseurl}}/images/brb_crosssec.jpg)
 
 <br>
 <br>
