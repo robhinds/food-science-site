@@ -2,8 +2,6 @@
 date: 2021-02-27
 title: The science of low-and-slow cooking
 categories:
-sitemap: false
-hidden: true
 featured_image: /images/offset-thermometer.jpg
 image: /images/offset-thermometer.jpg
 layout: post
@@ -85,5 +83,5 @@ As always happy to have questions or suggestions!
 <br>
 <br>
 <i>
-<span>Heading inamge a photo of a BBQ thermometer by <a href="https://unsplash.com/@timomue90?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Timo Müller</a> on <a href="https://unsplash.com/s/photos/thermometer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Unsplash</a></span>
+<span>Heading image, a photo of a BBQ thermometer, by <a href="https://unsplash.com/@timomue90?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Timo Müller</a></span>
 </i>
