@@ -17,7 +17,7 @@ To understand this, we need to understand how meat is cooked and how the heat en
 <br>
 <br>
 
-##1. Basics of energy transfer: How is our food cooked
+## 1. Basics of energy transfer: How is our food cooked
 Before we get into any more details, we will take a look at how meat is cooked and how energy is transferred. For this example, we will think about a pork butt (pork shoulder - used for pulled pork) as its a large, roughly evenly shaped piece of meat.
 
 Ok, so we have our pork butt in the smoker, with the grill temperature sitting happily at 110C/225F, let's take a look at whats going on:
@@ -85,5 +85,5 @@ As always happy to have questions or suggestions!
 <br>
 <br>
 <i>
-<span>Photo by <a href="https://unsplash.com/@timomue90?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Timo Müller</a> on <a href="https://unsplash.com/s/photos/thermometer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Unsplash</a></span>
+<span>Heading inamge a photo of a BBQ thermometer by <a href="https://unsplash.com/@timomue90?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Timo Müller</a> on <a href="https://unsplash.com/s/photos/thermometer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Unsplash</a></span>
 </i>

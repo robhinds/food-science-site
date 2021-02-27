@@ -40,7 +40,7 @@ Beef short ribs are one of my all time favourite cuts to cook low and slow. They
 
 I often use short ribs for lots of other cooks too - in chilli-con-carne or generally any slow cooked stew or casserole.
 
-<a href="https://www.instagram.com/stories/highlights/18063812545237550/" target="_blank">I have a short set of video clips of me trimming, cooking and checking a three bone rack of beef short ribs on Instagram - 3 1/2 minutes in all, so give it a watch!</a>
+<a href="https://www.instagram.com/stories/highlights/18063812545237550/" target="_blank" rel="nofollow">I have a short set of video clips of me trimming, cooking and checking a three bone rack of beef short ribs on Instagram - 3 1/2 minutes in all, so give it a watch!</a>
 
 <br>
 <br>

@@ -36,4 +36,4 @@ You get hit with that classic flavour we've come to expect, then the tang of the
 I'm not the only one to be an early fan either, the nascent BBQ insta community also caught on and you will see lots of people raving about this one. I have been tempted to have pure Metalhead Mayo sandwiches, and I always reach for it when there are kids leftovers knocking about (I can confirm it works well with chicken dippers, turkey dinos and pizza crusts).
 
 
-If you want to get yourself some, you can either hit up <a href="https://www.instagram.com/urbanstreatery/" target="_blank">UrbanStreatery</a> directly, or purchase it from <a href="https://www.subwolfer.co.uk/shop/sauces?utm_source=robbishfood" target="_blank">SubWolfer store</a>.
+If you want to get yourself some, you can either hit up <a href="https://www.instagram.com/urbanstreatery/" target="_blank" rel="nofollow">UrbanStreatery</a> directly, or purchase it from <a href="https://www.subwolfer.co.uk/shop/sauces?utm_source=robbishfood" target="_blank">SubWolfer store</a>.
