@@ -4,8 +4,9 @@ title: The science of low-and-slow cooking
 categories:
 sitemap: false
 hidden: true
-featured_image: /images/linkin/babybacks.jpg
-image: /images/linkin/babybacks.jpg
+featured_image: /images/offset-thermometer.jpg
+image: /images/offset-thermometer.jpg
+layout: post
 recipe:
 ---
 
@@ -48,9 +49,9 @@ Hot-and-fast, as you can see, results in the biggest gradient difference between
 <br>
 
 ## 2. So what does this mean in practice?
-As you might have guessed, with some exceptions (a whole chicken for example), the goal is likely to be roughly even cooking throughout the meat with even temperatures. To have good levels of moisture and _juiciness_ edge-to-edge, we want to flatten that gradient curve out as much as possible. If the centre has hit 95C we don't want the outmost layer to me 150C plus.
+As you might have guessed, with some exceptions (a whole chicken for example), the goal is likely to be roughly even cooking throughout the meat with even temperatures. To have good levels of moisture and _juiciness_ edge-to-edge, we want to flatten that gradient curve out as much as possible. If the centre has hit 95C we don't want the outmost layer to be 150C plus.
 
-So low-and-slow helps us achieve nice even cooking across large pieces of meat - and it doesn't just apply to traditional slow-cooked BBQ cuts, this principle is also the reason we bother with the <a href="">reverse-sear approach cooking steaks</a>.
+So low-and-slow helps us achieve nice even cooking across large pieces of meat - and it doesn't just apply to traditional slow-cooked BBQ cuts, this principle is also the reason we bother with the <a href="https://www.robbishfood.com/science/2021/01/01/reverse-sear-caveman-steaks/" target="_blank">reverse-sear approach cooking steaks</a>.
 
 <br>
 <br>
@@ -64,7 +65,7 @@ The slower you cook it, the longer your pork butt, or brisket, will be sitting a
 
 Cook it hotter, and your internal temp will race through from 60C/140F through to 95C/203F a lot quicker, leaving less time for the magic to happen, so there is an increased chance that at the right internal temp, the meat won't be tender and probing like you would want it to.
 
-A common phrase you will hear is _cook to probe, not to temperature_ - which is opposite to the messaging that you normally hear around BBQ about the importance of digital thermometers and temperature probes, but it holds true as you get towards the end of the cook.
+A common phrase you will hear is _cook to feel, not to temperature_ - which is opposite to the messaging that you normally hear around BBQ about the importance of digital thermometers and temperature probes, but it holds true as you get towards the end of the cook.
 
 <br>
 
@@ -80,3 +81,9 @@ That said, despite the science, if you have a method that works well for you, an
 
 
 As always happy to have questions or suggestions!
+
+<br>
+<br>
+<i>
+<span>Photo by <a href="https://unsplash.com/@timomue90?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Timo Müller</a> on <a href="https://unsplash.com/s/photos/thermometer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="nofollow">Unsplash</a></span>
+</i>
