@@ -26,7 +26,6 @@ I suspect the reason we all love it is just tradition and history. When you firs
 When you smoke your first piece of meat and discover the smoke ring, its a satisfying feeling that doesn't really diminish over further cooks. Being a part of a not-so-exclusive club of people who have discovered the delights of smokey, two-tone meat. From that first moment on, you will be chasing that little pink band every cook, experiencing the highs and lows that come with that quest as you go!
 
 <br>
-<br>
 
 ## 2. What is the Smoke Ring?
 Ok, let's get into the details.
@@ -35,13 +34,10 @@ Raw meat contains a protein called myoglobin. Myoglobin is responsible for stori
 
 When myoglobin is subject to enough heat, it changes colour and becomes a grey-ish colour. This is the reason you have the varying colour on the inside of a steak depending on how well done it is. A rare steak should be a deep red colour where as a well-done steak will be grey. This is because as the myoglobin is cooked, the colour changes with heat. Whats more, this transformation is what is known as an _irreversible reaction_ - which as you may have guessed, means it can't be undone. Unfortunately there is no going back once you have over cooked your steak!
 
-<br>
-
 The pink smoke ring is formed because the myoglobin near the surface has not had its colour changed - which might sound counter intuitive given the outer layer is going to have been subjected to the most heat, and that usually its the inside that remains pink and the outer more grey on a steak, but this is to do with two other gases. Nitric oxide and carbon monoxide, specifically - these gases get absorbed by moisture in the meat and they have a reaction with the meat that essentially permanently sets the colour. Once nitric oxide or carbon monoxide hit the meat, they set the colour of the myoglobin to the initial, pinker state (at the start of the cook, the myoglobin is not yet cooked).
 
 Obviously the gas doesn't get a chance to penetrate very far into the meat before the colour changes through cooking, and hence, the smoke ring is formed.
 
-<br>
 <br>
 
 ## 3. How can I get a bigger smoke ring?
@@ -51,11 +47,11 @@ We have been through some of the details above, so maybe you have already come u
 
 The above is from <a href="https://amazingribs.com/more-technique-and-science/more-cooking-science/mythbusting-smoke-ring-no-smoke-necessary" target="_blank">the AmazingRibs article all about smoke rings</a> and this table was largely the basis for my experiment. The good news is, from the start, the numbers in the chart above (as well as generally interesting reading) do match up anecdotally with my experience:
 
-_*Outside of a roaring fire, pellet grills have amongst the highest level of nitric oxide*_ - Don't let anyone tell you you can't get smoke rings on pellet grills. I regularly see very impressive smoke rings on instagram and pretty much without fail when I read the description it was on a pellet grill such as a Traeger or the Weber SmokeFire.
+***Outside of a roaring fire, pellet grills have amongst the highest level of nitric oxide*** - Don't let anyone tell you you can't get smoke rings on pellet grills. I regularly see very impressive smoke rings on instagram and pretty much without fail when I read the description it was on a pellet grill such as a Traeger or the Weber SmokeFire.
 
-_*Briquettes produce significantly more nitric oxide than lump charcoal*_ - Another not entirely surprising one - lump charcoal is the most popular charcoal when cooking on kamado style BBQs, and a <a href="https://www.google.com/search?q=no+smoke+ring+kamado&oq=no+smoke+ring+kamado" target="_blank" rel="nofollow">quick Google will tell you</a> its not unusual for people to finish a cook and be amazed that their smoke ring has gone missing.
+***Briquettes produce significantly more nitric oxide than lump charcoal*** - Another not entirely surprising one - lump charcoal is the most popular charcoal when cooking on kamado style BBQs, and a <a href="https://www.google.com/search?q=no+smoke+ring+kamado&oq=no+smoke+ring+kamado" target="_blank" rel="nofollow">quick Google will tell you</a> its not unusual for people to finish a cook and be amazed that their smoke ring has gone missing.
 
-_*Roaring wood fires produce high levels of nitric oxide*_ - check out the cooks from any offset smoker and you will know this is true.
+***Roaring wood fires produce high levels of nitric oxide*** - check out the cooks from any offset smoker and you will know this is true.
 
 <br>
 
@@ -66,7 +62,6 @@ Based on this, it seems like the options to maximise our smoke ring are:
 1. Increase the amount of nitric oxide the meat is subjected to
 2. Slow the time it takes for the meat to cook and stabilise the colour
 
-<br>
 <br>
 
 ## 4. The experiment: Maximising the smoke ring
@@ -96,7 +91,6 @@ Oxygen is the key to a roaring fire - in normal operation, the Weber Smokey Moun
 To get around this, I used a relatively well known mod that is usually used for when people want to cook hotter on their Smokey Mountain than the air vents allow, which essentially involves propping the door of the unit open. Ordinarily the mod works by simply increasing airflow beyond just having the vents open and allowing the charcoal to burn hotter - exactly what I wanted, but with a smaller amount of charcoal we could still keep the BBQ temperature easily at 110C/225F
 
 <br>
-<br>
 
 ### 4.2 Slow cooking time
 Having taken steps to maximise the nitric oxide output, the next objective was to slow the speed at which the meat got cooked and the myoglobin transformed to the grey colour we wanted to avoid.
@@ -110,7 +104,6 @@ Spritzing meat during BBQ has two benefits here: 1) it provides more moisture th
 #### Cook low and slow
 Low-and-slow cooking covers a range of temperatures, traditionally around 110C/225F - 135C/275F - a fine range to be cooking at, but for the purpose of this experiment the lower the temp we cook at, the longer we will have for that smoke ring to form. Although we might get more nitric oxide produced if the fire is running hotter and the temps increase in that range, I didn't find I needed to and the Smokey Mountain happily sat down at 110C/225F with the above adjustments.
 
-<br>
 <br>
 
 ## 5. Results & conclusion
