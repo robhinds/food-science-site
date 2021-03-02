@@ -69,6 +69,8 @@ With neither an offset or a pellet grill, both those options were out. And whils
 
 To maximise the result I was going to turn both dials at once.
 
+<br>
+
 ### 4.1 Increasing nitric oxide
 I obviously wasn't looking to cook my meat on a grass fire, and having ruled out burning wood or pellets I was left with two choices:
 
@@ -77,11 +79,14 @@ I obviously wasn't looking to cook my meat on a grass fire, and having ruled out
 
 Briquettes the clear winner here. Note that those two numbers were for _roaring_ fires - low and slow cooking is never on a roaring fire, they are lower, smouldering fires to keep the temperatures down. Nitric oxide output for briquettes running low-and-slow isn't even given a number on the chart (but is listed above the other things lower down) - so we can assume that the nitric oxide output correlates with the how hot they are burning, which suggests to maximise the output we want to get the coals burning as hot as possible whilst still maintaining low-and-slow cooking.
 
+<br>
+
 #### Reduce the amount of fuel
 Normally, for a long low-and-slow cook I might use a chimney worth of hot briquettes that I would dump into the Weber Smokey Mountain on top of another pile of cold briquettes. With that amount of burning fuel, they would need to be smouldering fairly low, as the more burning fuel there is, the hotter it will be. With less fuel in there, we can have them burning hotter whilst still maintaining a lower cooking temperature.
 
 For the experiment I reduced the starting briquettes to a little more than half a chimney full. This did mean that I had to top up the fuel a few times through the cook - but this experiment was not trying to take advantage of the Smokey Mountain's qualities, but for our specific goal of a good smoke ring.
 
+<br>
 
 #### Maximise airflow
 Oxygen is the key to a roaring fire - in normal operation, the Weber Smokey Mountain would not allow for a roaring fire as even with all the air vents open, there is still a limit on how much oxygen can get to the fire.
@@ -95,11 +100,17 @@ To get around this, I used a relatively well known mod that is usually used for 
 ### 4.2 Slow cooking time
 Having taken steps to maximise the nitric oxide output, the next objective was to slow the speed at which the meat got cooked and the myoglobin transformed to the grey colour we wanted to avoid.
 
+<br>
+
 #### Start with cold meat
 It might seem obvious, and this is a common trick on competition circuits, but starting with a colder piece of meat means it has a further temperature climb before that cooking process kicks in and changes our myoglobin colour. A short (30 minutes) in the freezer pre-cooking helps this (don't cook from frozen though).
 
+<br>
+
 #### Check and spritz regularly
 Spritzing meat during BBQ has two benefits here: 1) it provides more moisture that the nitric oxide can be absorbed into and 2) it helps cool the meat. Evaporative cooling (moisture on the surface of the meat evaporating and in the process cooling the meat) can help us here, by spritzing with cool liquid (water is fine) it both cools the meat on impact (as the heat energy in the meat is transferred to the cool liquid) and also then provides an evaporative cooling effect as that evaporates off.
+
+<br>
 
 #### Cook low and slow
 Low-and-slow cooking covers a range of temperatures, traditionally around 110C/225F - 135C/275F - a fine range to be cooking at, but for the purpose of this experiment the lower the temp we cook at, the longer we will have for that smoke ring to form. Although we might get more nitric oxide produced if the fire is running hotter and the temps increase in that range, I didn't find I needed to and the Smokey Mountain happily sat down at 110C/225F with the above adjustments.
@@ -113,7 +124,7 @@ Looking at the two photos below, the beef short ribs were cooked in the Smokey M
 
 The second photo, and the result of this experiment is a beef shin that I smoked last weekend. As you can see, a far more impressive smoke ring, and from my cooks on the Smokey Mountain and on the kamado, I can confidently say its the biggest ring I have achieved in many years of BBQ.
 
-![Smoke ring on beef shin in experiment cook]({{site.baseurl}}/images/smokeringresults.jpg)
+![Smoke ring on beef shin in experiment cook]({{site.baseurl}}/images/smokeringresult.jpg)
 
 I will experiment again, in an effort to reverse this experiment and _try_ to produce the smallest smoke ring. Another interesting observation, that you may have noticed, is that the hotter the day the lower your charcoal will be burning. On a hot summers day, you will likely have your fuel burning lower, where as on a cold winter day the fuel will have to burn hotter to counteract the energy loss to the harsher environment - so cooking in the winter should marginally improve your chances of a good smoke ring!
 
