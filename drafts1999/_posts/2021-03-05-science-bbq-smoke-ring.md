@@ -6,6 +6,7 @@ sitemap: false
 hidden: true
 featured_image: /images/smokeringcontrol.jpg
 image: /images/smokeringcontrol.jpg
+layout: post
 recipe:
 ---
 
