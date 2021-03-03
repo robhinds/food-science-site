@@ -8,6 +8,10 @@
 		{% seo %}
 		{% feed_meta %}
 
+		{% if page.hidden %}
+			<meta name="robots" content="noindex" />
+		{% endif %}
+
 		{% if page.faqSchema %}
 			<script type="application/ld+json">
 				{
