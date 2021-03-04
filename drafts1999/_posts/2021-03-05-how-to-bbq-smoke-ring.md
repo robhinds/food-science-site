@@ -1,6 +1,6 @@
 ---
 date: 2021-03-05
-title: An experiment&#58; How-to maximise a BBQ smoke ring
+title: BBQ&#58; How-to improve your smoke ring
 categories:
 sitemap: false
 hidden: true

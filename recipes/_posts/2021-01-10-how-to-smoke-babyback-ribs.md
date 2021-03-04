@@ -1,6 +1,6 @@
 ---
 date: 2021-01-10
-title: How-to BBQ&#58; Low-and-slow smoked BBQ ribs
+title: How-to BBQ&#58; Low-and-slow smoked babyback pork ribs
 categories:
  - howto
 layout: recipe-post
