@@ -1,9 +1,7 @@
 ---
 date: 2021-03-05
-title: BBQ&#58; How-to improve your smoke ring
+title: BBQ&#58; How-to get a bigger smoke ring
 categories:
-sitemap: false
-hidden: true
 featured_image: /images/smokeringcontrol.jpg
 image: /images/smokeringcontrol.jpg
 layout: post
