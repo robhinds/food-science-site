@@ -2,8 +2,6 @@
 date: 2021-03-24
 title: The science of hot-and-fast BBQ
 categories:
-sitemap: false
-hidden: true
 layout: post
 featured_image: /images/hotfire.jpg
 image: /images/hotfire.jpg

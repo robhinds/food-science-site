@@ -15,7 +15,9 @@ The smoke ring. A much sought after, magical thing in BBQ. The visibly identifia
 This article is largely about an experiment - a lot of the science I learnt from a variety of other people and their writings, not least of all the folks at Amazing Ribs. My experiment in the pursuit of a big smoke ring is based entirely on the findings of their science experiments where they measured levels of certain gases in different heat sources. If you want to find out more about the background and science beyond what we cover here I highly recommend their <a href="https://amazingribs.com/more-technique-and-science/more-cooking-science/mythbusting-smoke-ring-no-smoke-necessary" target="_blank">myth-busting article on the topic here</a>.
 
 <br>
+<br>
 
+# The Ultimate Guide to Epic Smoke Rings
 ## 1. Why do BBQ-ers obsess about the Smoke Ring?
 The BBQ ring is not an indication of flavour, quality of <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">the low-and-slow cook</a>, or even a smokey taste. However, it is a common side-effect of cooking over fire, so it can largely be considered a fairly reliable indicator that meat has been properly smoked (and not just flavoured with smoke-enhanced flavour additives). Conversely, however, the absence of the smoke ring doesn't tell us anything. It's possible to smoke meat over live fire and achieve no smoke ring at all.
 
