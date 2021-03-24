@@ -4,24 +4,22 @@ title: The science of hot-and-fast BBQ
 categories:
 sitemap: false
 hidden: true
+layout: post
 featured_image: /images/hotfire.jpg
 image: /images/hotfire.jpg
 recipe:
 ---
 
-Previously we discussed the principles of <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">cooking low and slow BBQ</a>. Cooking for longer periods of time at a temperature ranging from roughly 110C/225F - 135C/275F. In that write up, we looked at the science of heat transfer and all the merits of cooking slowly to reduce the temperature gradient and get a more even cook throughout the meat, and you'd be forgiven for thinking by the end of that, <italic>"Why would you ever cook hot and fast?"</italic>
-
-<br>
+Previously we discussed the principles of <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">cooking low and slow BBQ</a>. Cooking for longer periods of time at a temperature ranging from roughly 110C/225F - 135C/275F. In that write up, we looked at the science of heat transfer and all the merits of cooking slowly to reduce the temperature gradient and get a more even cook throughout the meat, and you'd be forgiven for thinking by the end of that, <i>"Why would you ever cook hot and fast?"</i>
 
 Despite all the science of low-and-slow being a superior way to cook meat, hot-and-fast is often a popular method of cooking, and in recent years hot-and-fast BBQ has grown in popularity, and become a lot more common on competitive BBQ circuits, so it's probably right that we have a look at it.
-
-<br>
 
 Of course, I will preface this with my normal caveats: cook food the way you enjoy it. Whilst science can govern how energy is transferred and what happens as meat is cooked, it can't govern your enjoyment and tastes. Likewise, maybe you have a setup that you are comfortable with and know just how to get great results - if so, don't worry about altering that for the science, keep doing what you're doing and keep cooking great BBQ. I'm not here to tell anyone not to cook hot-and-fast, enjoy yourself and enjoy your food, this science is just for fun.
 
 <br>
 <br>
 
+# The Ultimate Guide to Hot-and-Fast BBQ
 ## 1. What is _Hot-and-Fast_ cooking?
 As already mentioned, its cooking at higher temperatures, for shorter periods! In BBQ, if you start moving towards temperature ranges of 160C/325F then people will start to refer to it as hot-and-fast, although in the scale of things, thats right down the bottom end of the range.
 
@@ -80,6 +78,6 @@ My recommendation would be to experiment with higher temperatures, slowly increa
 <br>
 <br>
 
-<italic>
+<i>
 Photo by <a href="https://unsplash.com/@yula33?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">iulian aghei</a> on <a href="https://unsplash.com/s/photos/bbq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</italic>
+</i>
