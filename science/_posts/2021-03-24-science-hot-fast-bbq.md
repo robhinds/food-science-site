@@ -74,6 +74,10 @@ It's not that collagen/connective tissue suddenly and instantly breaks down to g
 My recommendation would be to experiment with higher temperatures, slowly increasing them, and seeing how the results come out. Being able to shorten the average cook time of a brisket by a couple of hours definitely sounds appealing, right?! But if you are going to go for it, then keep in mind the science and how to handle that - moving and rotating the meat throughout the cook (as in the Just Keep Flipping method), but it will be less effective if you are cooking in something like a bullet smoker or kamado (they function more like a convection oven), but still worth doing just in case there are hotspots. In an offset rotating makes more sense as there is a more definitive direct heat source from the fire. I'd also suggest making sure you wrap the meat - that will provide a highly humid atmosphere that will reduce the temperature directly heating the meat (<a href="https://www.robbishfood.com/science/2021/01/08/humidity-and-cooking/" target="_blank">it will use more energy to heat the liquid in the wrap, which will cook at a lower temperature but with increased energy transfer</a>)
 
 <br>
+
+My point is, low-and-slow will give you more reliably evenly cooked meat, and reduced risk of any part of the meat being overcooked, but at the cost of time - what we want to do is find that balance that gives us great results ideally as conveniently as possible. Lots of people swear by hot-and-fast brisket, you don't have to cook as low as possible to get good results, but if your cooking temperatures creep too high then parts will inevitably be overcooked, so find that balance that works for you and go for it!
+
+<br>
 <br>
 
 <i>
