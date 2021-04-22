@@ -1,6 +1,6 @@
 ---
 date: 2021-04-10
-title: Die Hard Themed Cooking: Miso aubergine burger with katsu
+title: Die Hard Themed Cooking - Miso aubergine burger with katsu
 categories:
 layout: recipe-post
 featured_image: /images/joetakagiburger.jpg
