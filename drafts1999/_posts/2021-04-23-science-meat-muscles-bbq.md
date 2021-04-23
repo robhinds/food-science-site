@@ -9,16 +9,14 @@ image: /images/hangersteak.jpg
 layout: post
 recipe:
 ---
-This article is intended as an overview of the two main categories of cuts of meat (muscles) and the common properties these groups share. A lot of this may be boring science-nerd stuff (which I am all here for), but the reason I think it's interesting, is because these shared properties shape the way we cook them. For example, we would alter our cooking approach if we were cooking chicken breast vs chicken thighs, and likewise, there is no way you would want to cook a fillet steak the same way you cook a brisket. This is because they are in different categories and have different properties, likewise, meats in the same categories can be cooked in basically the same way. Cooked short rib before but never ox-cheek? Don't worry, they are in the same group and can basically be cooked the same way.
+This article is intended as an overview of the two main categories of cuts of meat (muscles) and the common properties these groups share. A lot of this may be boring science-nerd stuff (which I am all here for), but the reason I think it's interesting is because these shared properties shape the way we cook them. For example, we would alter our cooking approach if we were cooking chicken breast vs chicken thighs, and likewise, there is no way you would want to cook a fillet steak the same way you cook a brisket. This is because they are in different categories and have different properties, likewise, meats in the same categories can be cooked in basically the same way. Cooked short rib before but never ox-cheek? Don't worry, just think of them like different shaped short ribs and you'll be fine.
 
-<br>
 <br>
 
 ## 1. Muscle types
 ### 1.1 Fast twitch muscles
 Fast twitch muscles are the muscles designed for short, sharp bursts of activity, such as sprinting. From an evolutionary point of view these are the quick burst muscles for escaping danger. Generally speaking they don’t get much use day-to-day.
 
-<br>
 
 ### 1.2 Slow twitch muscles
 Slow twitch muscles, inversely, are the slower, hard working muscle groups. The muscles that get lots of use on a regular basis. These kinds of muscles are used for slower movement (carrying, chewing). If someone describes a muscle as hard-working they are most likely talking about a slow twitch muscle.
@@ -45,7 +43,6 @@ When not properly cooked, connective tissue is really chewy (to the point of not
 
 This is the reason we slow cook pieces like brisket, short rib, pork shoulder to a higher internal temperature - it's to break down the connective tissue into gelatin. In a fast-twitch muscle, without connective tissue, such as chicken breast or fillet steak, if we cooked it to those higher internal temperatures the meat proteins would contract, forcing the moisture out of the meat and making for a tough, dry piece of meat. In the slow-twitch muscles, with increased intra-muscular fat and lots of connective tissue, at those higher temperatures is where the magic happens!
 
-<br>
 
 ### 3.1 Sidenote: Elastin vs Collagen
 Boring science stuff alert: The two main types of connective tissue are Elastin and Collagen - Collagen is our favourite connective tissue, the BBQ-ers best friend. Collagen breaks down, when subject to the right conditions, into gelatin, enhancing our meat with huge rewards for our patience. Elastin, on the other hand, won’t break down for love nor money and will always remain chewy. In recipes or instructional videos this is often referred to as “silverskin” - this will be a slightly translucent, silvery skin that will often be on the surface of pieces of meat you get from a butcher, and unfortunately these just need to be trimmed off and removed as best you can.
