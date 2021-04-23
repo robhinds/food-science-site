@@ -2,8 +2,6 @@
 date: 2021-04-23
 title: The science of meat&#58; Impact of muscle groups on BBQ and cooking
 categories:
-sitemap: false
-hidden: true
 featured_image: /images/hangersteak.jpg
 image: /images/hangersteak.jpg
 layout: post
@@ -55,6 +53,6 @@ The reason it can be useful to be able to recognise these two groups of muscles,
 
 For example, let’s say you have never cooked beef cheeks before but you have cooked short ribs, and you know they are both hard-working slow twitch muscles, then we can use similar recipes and techniques to cook the two.
 
-Inversely, imagine you get your first hanger steak, this is a very tender, fast-twitch muscle (as the name suggests, it just hangs on the cow, basically doing no work) - knowing this we know that it will be fairly lean and will need to be cooked accordingly and definitely not to the temperatures of a brisket or short rib.
+Inversely, imagine you get your first hanger steak, this is a very tender, fast-twitch muscle (as the name suggests, it just hangs on the cow, basically doing no work) - knowing this we know that it will be a fairly tender cut and will need to be cooked accordingly and definitely not to the temperatures of a brisket or short rib.
 
 This knowledge helps understand what pieces of meat in recipes can be interchanged with minimal other changes to the recipe. For example, <a href="https://www.robbishfood.com/recipes/chilli/2018/08/13/fourth-best-chilli-uk/" target="_blank">in my chilli recipe</a> I mention in the ingredients that you can basically choose the meat, can be pork shoulder, short rib, ox cheek, brisket etc, and nothing else really needs to change in the recipe.
