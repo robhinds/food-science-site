@@ -23,7 +23,7 @@ recipe:
     - If you have time, you can keep cooking the ribs uncovered, monitoring the internal temperature. If you are short of time, and hit the stall, then you can wrap the ribs.
     - Optional - If you are wrapping the ribs, remove from the grill and tightly wrap in two layers of tin foil and return to keep cooking for a further 3-4 hours
     - Anytime from 6hours cooking time onwards, you may be reaching completion - you are aiming to take the short ribs off at an internal temperature of around 96C/205F - it may take longer than 8 hours though, so keep monitoring until they are ready.
-    - Once they reach temperature, take the ribs off the grill and probe the meat with a temperature probe, there should be very little resistance to the probe as yo push it through the meat.
+    - Once they reach temperature, take the ribs off the grill and probe the meat with a temperature probe, there should be very little resistance to the probe as you push it through the meat.
     - If they are not done, you can wrap them back in foil, then wrap the foil in a tea-towel and store in a cool box. The ribs will be storing a lot of heat energy, so they can continue to cook themselves for a long time (this is also a good option if you are ready early for dinner)
 faqSchema:
   - title: "How long should I smoke beef short ribs for?"
@@ -64,10 +64,10 @@ Despite some myths that any fat cap left on the top of meat will _melt into the 
 2. The fat will prevent _bark_ formation - on good BBQ beef you are aiming for a nice, dried out crust - packed with the flavour of the rub (or salt and pepper), smoke and beefy goodness. Fat won't form a decent bark as its too moist.
 3. As the fat does render (it will release a reasonable amount of liquid through the cooking process), not only does it not get absorbed into the meat, it actually runs down the outside potentially washing some of our rub off with it.
 
-The good thing about beef short ribs is they are packed with connective tissue and intramuscular fat that is going to make the meat beautifully moist and tender, without the need for the fat cap, so we can be ruthless in removing that.
+The good thing about beef short ribs is they are packed with connective tissue and intramuscular fat that is going to make the meat beautifully moist and tender, without the need for the fat cap, so we can be ruthless in removing that (<a href="https://www.robbishfood.com/science/2021/04/23/science-meat-muscles-bbq/" target="_blank">see more details about the science of meat, connective tissue and fat here</a>).
 
 ### 2.2 Apply dry rub
-Normally, before I apply my dry rub, I will apply a layer of yellow mustard (French's oh Heinz) - this will just help the rub stick to the ribs a bit better, the mustard flavour won't be noticeable after cooking so you don't need to worry about people not liking that taste.
+Normally, before I apply my dry rub, I will apply a layer of yellow mustard (French's or Heinz) - this will just help the rub stick to the ribs a bit better, the mustard flavour won't be noticeable after cooking so you don't need to worry about people not liking that taste.
 
 Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you don't have any BBQ rubs, a nice 50-50 blend of decent salt and cracked black pepper works great. The meat is really flavourful and robust enough to take on a strong smoke flavour too, so salt and pepper will compliment this perfect. If you are after some commercial rubs, <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/moo-mami-ultimate-umami-grilling-powder?utm_source=robbishfood" target="_blank">Angus & Oink Moo-mami</a> is an excellent pairing with beef, and <a href="https://www.goodrub.co.uk/products/good-rub-texas-af-central-texas-rub-190g-shaker?utm_source=robbishfood" target="_blank">Good Rub Texas AF rub</a> (basically a perfectly balanced salt and pepper mix) also recommended!
 
@@ -77,7 +77,7 @@ Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting 
 ## 3. How to smoke beef short ribs
 I am always wary when writing up BBQ recipes - I have several BBQ cook books, and inevitably they get to recipes for cooks such as beef short ribs, or beef brisket and the instruction is basically: _cook on indirect heat for 8-10 hours until done_).  In terms of describing the steps there really isn't much to it, but when it comes to actually cooking the results and timing can vary quite a bit.
 
-Thankfully, if you know how to low-and-slow smoke a large, tough cut of meat (short ribs, brisket, pork butt) then you know them all - the science behind these cuts are all the same. We are cooking low and slow, so we can gradually reach our target internal temperature (96C/205F) that is enough to have melted all the connective tissue to make it beautifully soft, tender and tasty. The variation between them is just the times it takes.
+Thankfully, if you know how to <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">low-and-slow smoke a large, tough cut of meat (short ribs, brisket, pork butt) then you know them all - the science behind these cuts are all the same</a>. We are cooking low and slow, so we can gradually reach our target internal temperature (96C/205F) that is enough to have melted all the connective tissue to make it beautifully soft, tender and tasty. The variation between them is just the times it takes.
 
 Unwrapped, just cooking indirect low-and-slow (grill temp at 110-135C/225-275F) you can probably cook a three bone rack (or bigger) in about 8 hours or so, but it depends entirely on how meaty they are. For a three bone rack, and bigger, the shortest distance to the thickest part of the meat is always from the top of the meat (not the ends), so a longer rack, of say 6 bones, won't take longer (but individual ribs will be quicker as that changes the dimensions and the shortest path). I'd allow for 8 hours at least, allowing 10 hours or more is probably a safe bet.
 <br>
