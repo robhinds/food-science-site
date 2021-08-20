@@ -6,6 +6,8 @@ categories:
 layout: recipe-post
 featured_image: /images/chickenwings.jpg
 image: /images/chickenwings.jpg
+how_to_description: How to cook perfect chicken wings hot-and-fast or low and slow!
+how_to_name: How to cook perfect chicken wings
 recipe:
   servings: Wings for 2-4 people (1 kg chicken wings)
   prep: 10 minutes
