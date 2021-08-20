@@ -30,7 +30,7 @@ recipe:
 
 This is just a quick Southern Comfort (or any Bourbon you like really - SC is quite sweet and works well, but there's plenty of sweetness in BBQ sauce anyway so it could easily be swapped straight out for Jack Daniels or anything you fancy - just please don't use an expensive single malt in there!)
 
-Earlier in the year we had a quick and easy homemade BBQ sauce recipe, and this one is really similar. There's not much more to say about it other than its another example of how you can add your own twists to the sauce to make it your own - either for your tastes or what you have in the cupboards.
+Earlier in the year we had a <a href="https://www.robbishfood.com/recipes/howto/2015/06/24/simple-bbq-sauce/" target="_blank">quick and easy homemade BBQ sauce recipe</a>, and this one is really similar. There's not much more to say about it other than its another example of how you can add your own twists to the sauce to make it your own - either for your tastes or what you have in the cupboards.
 
 Here in the UK, almost all barbecue sauces you can buy are traditional ketchup based - so assuming that is the style you are aiming for, there are just a few core components to consider:
 - the ketchup - this is the base of this style of sauces
