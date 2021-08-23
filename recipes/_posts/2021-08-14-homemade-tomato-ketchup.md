@@ -30,7 +30,7 @@ recipe:
     - Set your smoker up for indirect smoking at 110C/225F and add some wood.
     - Chop the tomatoes in half and place skin down on the grill
     - Smoke them two hours
-    - [OPTIONAL] After smoking the tomatoes they reduced in weight to about 600 grams - if you aren't planning on smoking them, I'd still recommend roasting the tomatoes a little - this will reduce the liquid content and bring out some more of the natural sweetness. If not smoking, chop the tomatoes in half, lay on a baking tray (or two) and drizzle with a little olive oil and season with salt and cook in an oven at 160 degrees for about an hour.
+    - OPTIONAL - After smoking the tomatoes they reduced in weight to about 600 grams - if you aren't planning on smoking them, I'd still recommend roasting the tomatoes a little - this will reduce the liquid content and bring out some more of the natural sweetness. If not smoking, chop the tomatoes in half, lay on a baking tray (or two) and drizzle with a little olive oil and season with salt and cook in an oven at 160 degrees for about an hour.
     - Once that is done (and this step can be done another day), cook the onion and celery in a little olive oil until softened and fragrant
     - Add the rest of the ingredients, including the smoked tomatoes and simmer on a low heat for 2-3 hours until it has reduced to a good consistency.
     - Process the sauce in a food processor or with a hand blender until smooth and no tomato skins are left visible
