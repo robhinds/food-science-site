@@ -4,8 +4,8 @@ title: How-to BBQ&#58; Homemade BBQ sauce recipe
 categories:
  - howto
 layout: recipe-post
-featured_image: /images/chickenwings.jpg
-image: /images/chickenwings.jpg
+featured_image: /images/smokeytomatobbqsauceketchup.jpg
+image: /images/smokeytomatobbqsauceketchup.jpg
 how_to_description: How to make a homemade, smokey tomato based BBQ sauce
 how_to_name: Homemade smokey tomato BBQ sauce
 recipe:
@@ -29,7 +29,7 @@ recipe:
     - If you are going for a smokey (rather than original) tomato ketchup, the first step is to smoke the tomatoes
     - Set your smoker up for indirect smoking at 110C/225F and add some wood.
     - Chop the tomatoes in half and place skin down on the grill
-    - Smoke them for about two hours
+    - Smoke them two hours
     - OPTIONAL - After smoking the tomatoes they reduced in weight to about 600 grams - if you aren't planning on smoking them, I'd still recommend roasting the tomatoes a little - this will reduce the liquid content and bring out some more of the natural sweetness. If not smoking, chop the tomatoes in half, lay on a baking tray (or two) and drizzle with a little olive oil and season with salt and cook in an oven at 160 degrees for about an hour.
     - Once that is done (and this step can be done another day), cook the onion and celery in a little olive oil until softened and fragrant
     - Add the rest of the ingredients, including the smoked tomatoes and simmer on a low heat for 2-3 hours until it has reduced to a good consistency.
