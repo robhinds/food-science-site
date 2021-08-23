@@ -1,9 +1,9 @@
 ---
 date: 2021-08-14
-hidden: false
 title: How-to BBQ&#58; Homemade BBQ sauce recipe
 categories:
  - howto
+layout: recipe-post
 featured_image: /images/smokeytomatobbqsauceketchup.jpg
 image: /images/smokeytomatobbqsauceketchup.jpg
 how_to_description: How to make a homemade, smokey tomato based BBQ sauce
