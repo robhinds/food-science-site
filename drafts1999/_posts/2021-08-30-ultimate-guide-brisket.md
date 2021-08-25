@@ -7,6 +7,7 @@ sitemap: false
 hidden: true
 featured_image: /images/brisket.jpg
 image: /images/brisket.jpg
+layout: post
 recipe:
 ---
 
