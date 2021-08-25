@@ -203,7 +203,7 @@ Hot-and-fast brisket will go against a lot of purist BBQ ideas, but if you can g
 
 Here is a video of Smokin' Elk cooking brisket hot-and-fast:
 <div class="youtubecontainer">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=gln3n4GSavE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/gln3n4GSavE"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
