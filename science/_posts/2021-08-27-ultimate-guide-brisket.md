@@ -1,21 +1,19 @@
 ---
-date: 2021-08-30
+date: 2021-08-27
 title: How-to BBQ&#58; The ultimate guide to BBQ brisket
 categories:
  - howto
-sitemap: false
-hidden: true
 featured_image: /images/brisket.jpg
 image: /images/brisket.jpg
 layout: post
 recipe:
 ---
 
-Brisket is one of the most iconic BBQ cooks you can do. For those on the circuit, brisket is the Mt Everest of cooks - traditionally one of the longest cooks in terms of time, and with the different muscles, one of the trickiest. Just like Everest, few BBQ chefs have a zero casualty record for cooking brisket - There are few things more disappointing then spending your hard earned cash as well as giving up large amounts of your time to have a disappointing centre piece of your meal.
+Brisket is one of the most iconic BBQ cooks you can do. For those on the circuit, brisket is the Mt Everest of cooks - traditionally one of the longest cooks in terms of time, and with the different muscles, one of the trickiest. Just like Everest, brisket has claimed more than a few casualties when it comes to attempted cooks. And I can tell you, there are few things more disappointing then spending your hard earned cash as well as giving up large amounts of your time to have a disappointing centre piece of your meal.
 
 Thankfully, with time and practice, anyone can get to the point of cooking great brisket and wowing all their dinner guests. And whilst nothing can replace time and experience, we can utilise science to improve our chances and understanding of what exactly is going on during the cook.
 
-I have resisted writing about brisket for a while now, in part because I generally find brisket _recipes_ to be somewhat disappointing. After all, for a traditional low-and-slow brisket cook, aside from details fo how to trim the meat, it really is just applying the rub and then cooking low and slow until its done, anywhere from 8 to 15 hours! Whilst it is re-assuring to read that it is this vague for everyone, I'm not sure how much more helpful it is to have a one line recipe. But there is a lot to be said about it (and lots of people have covered lots of this ground in lots of great videos and articles), so I wanted to tackle some of that now.
+I have resisted writing about brisket for a while now, in part because I generally find brisket recipes to be somewhat disappointing. After all, for a traditional low-and-slow brisket cook, aside from details on how to trim the meat, it really is just applying the rub and then cooking low and slow until its done, anywhere from 8 to 15 hours! Whilst it is re-assuring to read that it is this vague for everyone, I'm not sure how much more helpful it is to have a one line recipe. But there is a lot to be said about it (and lots of people have covered lots of this ground in lots of great videos and articles), so I wanted to tackle some of that now.
 
 <br>
 <br>
@@ -41,7 +39,7 @@ On almost all recipes here, and across the BBQ-ing internet, you will invariably
 
 However, when you start reading about briskets, more than any other BBQ cook, the approach changes and you will hear people talk a lot more about _feel_ rather than just going on temperature alone. It's possible to have a chewy, not fully cooked brisket at an internal temperature of 96C/205F but at the same time possible to have a perfectly cooked brisket at 93C/200F - so how is that possible? What is it about brisket that flips everything on its head?
 
-To be honest, it's not really just brisket that suffers this - it's just that on brisket its a lot more common. Pork shoulder, beef short ribs, you will want to test they are ready by feel as well, but most of the time by the time they hit 93C/200F internal temp its more likely they will be done.
+To be honest, it's not really just brisket that suffers this - it's just that with brisket it's a lot more common. Pork shoulder, beef short ribs, you will want to test they are ready by feel as well, but most of the time by the time they hit 93C/200F internal temp its more likely they will be done.
 
 To understand all this, we need to understand what is actually happening inside the meat during cooking.
 
@@ -58,18 +56,18 @@ There are a few key transformation moments that we are interested in when it com
 
 4. 65C/150F - 82C/180F - Connective tissue breaks down and converts into gelatin. We should note here though, that this is not the exact range. Actually connective tissues converts to gelatin at much lower temperatures, but this is another process which is a combination of temperature + time, and the lower temperatures simply go through this process much slower. Sous vide cooking can be used on low-and-slow, tough cuts of meat at 56C/130F, but that involves cooking for several days at that temperature. For this discussion in the context of regular BBQ smoking/cooking, we will consider this the key range for connective tissue break down.
 
-There are some other things going beside these, most obviously, we haven't talked about bacteria and food safety here, but thats for another topic and doesn't impact our brisket so skipping that here.
+There are some other things going beside these, most obviously, we haven't talked about bacteria and food safety here, but thats for another topic and doesn't impact our brisket so we'll skip that for now.
 
 <br>
 
-As you will have probably realised, the first two transformations above do not play a big role in low-and-slow cooking, and specifically brisket cooking. We will take the brisket (and short ribs, pork shoulder, chuck etc) way past those temperatures, and given they are (for the sake of our discussion) simply a product of temperature, these do not need much consideration. The brisket will pass those two temperature ranges so we can assume that regardless of cook time, both those will have happened.
+As you will have probably realised, the first two transformations mentioned above do not play a big role in low-and-slow cooking, and specifically brisket cooking. We will take the brisket (and short ribs, pork shoulder, chuck etc) way past those temperatures, and given they are (for the sake of this discussion) simply a product of temperature, these do not need much consideration. The brisket will pass those two temperature ranges so we can assume that regardless of cook time, both those will have happened.
 
 The latter two are the more interesting transformations, as these are both products of temperature AND time, these processes are the ones that bring the variable of time into play and are what impacts how long we have to cook brisket for. The most significant, from a time point of view, is the transformation of connective tissue into gelatin.
 
 <br>
 
 ### 2.2 How connective tissue affects cooking brisket
-Brisket is one of the most connective tissue rich cuts of meat you will find, and this is the main contributing factor to the length of cooking time. Conenctive tissue is what makes meat tough and chewy, when we cook cuts like brisket low-and-slow we rely on this transformation from conenctive tissue into gelatin so the meat is no longer tough and chewy, and the further benefit that gelatin is a lusciously silky-smooth liquid that lubricates the meat and makes it so juicy and moist.
+Brisket is one of the most connective tissue rich cuts of meat you will find, and this is the main contributing factor to the length of cooking time. Connective tissue is what makes meat tough and chewy, when we cook cuts like brisket low-and-slow we rely on this transformation from connective tissue into gelatin so the meat is no longer tough and chewy, and the further benefit that gelatin is a lusciously silky-smooth liquid that lubricates the meat and makes it so juicy and moist.
 
 Whilst the first two transformations above happen almost instantly, the transformation of connective tissue into gelatin takes hours. In the book <a href="https://www.amazon.co.uk/Science-Good-Cooking-Illustrated-Cookbooks/dp/1933615982" target="_blank">The science of good cooking</a> they carry out an experiment cooking ox-tail at 160C/325F and in that experiment they observe that it takes roughly three hours for full gelatin conversion. This doesn't necessarily translate to exact timings, as there are many factors at play here: 1) they chop the ox-tail into roughly 1/2 inch pieces, far smaller than a brisket so the time taken for heat to pass through the meat is far shorter 2) thats three hour total cooking time, from a cold start with the ox-tail 3) they braise the ox-tail, and <a href="https://www.robbishfood.com/science/2021/01/08/humidity-and-cooking/" target="_blank">braising is a far more efficient energy-transfer than convection cooking in an oven or BBQ</a> - but the general take away point stands that the transformation, even with high temperature and high-energy cooking such as braising, takes several hours.
 
