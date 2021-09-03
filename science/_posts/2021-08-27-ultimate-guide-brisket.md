@@ -3,8 +3,8 @@ date: 2021-08-27
 title: How-to BBQ&#58; The ultimate guide to BBQ brisket
 categories:
  - howto
-featured_image: /images/brisket.jpg
-image: /images/brisket.jpg
+featured_image: /images/briskethotfast.jpg
+image: /images/briskethotfast.jpg
 layout: post
 recipe:
 ---
