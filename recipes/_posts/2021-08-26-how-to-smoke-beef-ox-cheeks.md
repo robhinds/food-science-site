@@ -1,5 +1,5 @@
 ---
-date: 2021-09-04
+date: 2021-08-26
 title: How-to BBQ&#58; Low-and-slow smoked beef cheeks (ox cheeks)
 categories:
  - howto
