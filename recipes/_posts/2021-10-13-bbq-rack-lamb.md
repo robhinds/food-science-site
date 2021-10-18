@@ -23,6 +23,9 @@ recipe:
     - Place the rack of lamb fat side down in the hot coals, it will very quickly start to sear, monitor it closely, checking and turning if necessary every few seconds
     - Once seared all over, remove, slice and serve!
 ---
+_(dirty cooked salt-marsh lamb, on a bed of minted broccoli and pea puree served with crushed garlic baby gem potatoes)_
+
+<br>
 
 A rack of lamb is a more expensive piece of meat than I usually cover here (at least cost by weight - will be far cheaper than a full brisket, but also far smaller). Normally favouring the cheaper tougher cuts for slow cooking, a good rack of lamb is pretty lean, soft and tender. Whilst this cut won't need a long slow cook and won't be falling apart like good pulled pork, we can still take advantage of the same cooking techniques to create amazing results on the BBQ.
 
