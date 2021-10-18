@@ -16,7 +16,7 @@ recipe:
     - 1 rack of lamb
   directions_markdown:
     - <em>Cooking on hot coals can be dangerous, and should only be done if you are confident using a BBQ and live fire. Make sure you have appropriate protective wear and tools to avoid getting burnt, and take care!</em>
-    - Start off prepping the lamb - simple score the fat cap and generously salt the lamb all over.
+    - Start off prepping the lamb - simply score the fat cap and generously salt the lamb all over.
     - Insert an internal temperature probe into the lamb and cook on the grill nice and low, about 110C/225F degrees. We are looking for a target temperature of around 50C (adjust if you have a particular preference for done-ness, but this works well for me). It shouldn't take more than 45 minutes.
     - Once the lamb hits the internal temperature, take it off the grill and crank up the heat - open all the vents and get the coals nice and hot.
     - Using a tool (and being careful not to burn yourself), gently rake the coals to knock any excess ash off.
