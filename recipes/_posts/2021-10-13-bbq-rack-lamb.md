@@ -24,7 +24,7 @@ recipe:
     - Once seared all over, remove, slice and serve!
 ---
 
-A rack of lamb can be an more expensive cut by weight that we might usually BBQ. Normally favouring the cheaper tougher cuts for slow cooking, a good rack of lamb is pretty lean, soft and tender. Whilst this cut won't need a long slow cook and won't be falling apart like good pulled pork, we can still cook this really effectively on the BBQ.
+A rack of lamb is a more expensive piece of meat than I usually cover here (at least cost by weight - will be far cheaper than a full brisket, but also far smaller). Normally favouring the cheaper tougher cuts for slow cooking, a good rack of lamb is pretty lean, soft and tender. Whilst this cut won't need a long slow cook and won't be falling apart like good pulled pork, we can still take advantage of the same cooking techniques to create amazing results on the BBQ.
 
 <br>
 <br>
