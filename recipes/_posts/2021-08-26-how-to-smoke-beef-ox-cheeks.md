@@ -39,7 +39,7 @@ faqSchema:
 
 If you have already read <a href="https://www.robbishfood.com/recipes/howto/2021/02/05/how-to-smoke-beef-short-ribs/" target="_blank">my write-up on how to low-and-slow smoke beef short ribs</a>, then this may well all sound very familiar to you. The good news is this is not just down to lazy writing, but rather that the two cuts have an awful lot in common!
 
-Both beef short ribs and cheeks are tough, hard working muscles in the cow. They have a tonne of <a href="https://www.robbishfood.com/science/2021/04/23/science-meat-muscles-bbq/" target="_blank">connective tissue that needs to be cooked down gently so it transforms into gelatin</a> and provides a deliciously moist, juicy piece of beef. Furthermore, they both come in similar size cuts (in terms of distance to the thickest part of the meat), and certainly closer to each other than something like a <a href="https://www.robbishfood.com/science/howto/2021/08/27/ultimate-guide-brisket/" target="_blank">full pack brisket</a> (although that shares lots of similar properties with connective tissue and approach to cooking)
+Both beef short ribs and cheeks are tough, hard working muscles in the cow. They have a tonne of <a href="https://www.robbishfood.com/science/2021/04/23/science-meat-muscles-bbq/" target="_blank">connective tissue that needs to be cooked down gently so it transforms into gelatin</a> and provides a deliciously moist, juicy piece of beef. Furthermore, they both come in similar size cuts (in terms of distance to the thickest part of the meat), and certainly closer to each other than something like a <a href="https://www.robbishfood.com/science/howto/2021/08/27/ultimate-guide-brisket/" target="_blank">full packer brisket</a> (although that shares lots of similar properties with connective tissue and approach to cooking)
 
 So, with those similarities, it will come as no surprise that beef/ox cheeks are also one of my favourite cuts to smoke on the BBQ. As you may have seen on <a href="https://www.robbishfood.com/recipes/2021/02/12/over-top-beef-cheek-chilli/" target="_blank">my OTT chilli recipe</a>, I also love beef cheeks in chillis or stews.
 
@@ -49,7 +49,7 @@ All these BBQ recipes will work equally well on a ceramic kamado grill such as a
 <br>
 
 ## 1. How to buy beef cheeks (ox cheeks)
-Unfortunately, here in the UK, beef cheeks have not made in as mainstream as beef short ribs yet - whilst beef short ribs are becoming more and more available (Waitrose has long stocked them, and Sainsburys has recently trialled their addition), I am yet to see beef cheeks in a supermarket.
+Unfortunately, here in the UK, beef cheeks have not made it as mainstream as beef short ribs yet - whilst beef short ribs are becoming more and more available (Waitrose has long stocked them, and Sainsburys has recently trialled their addition), I am yet to see beef cheeks in a supermarket.
 
 That's fine though, as they are easily purchased from your local butcher - they should understand if you go in and ask for _beef cheeks_ or _ox cheeks_. Each cheek is likely going to weigh 400 - 500 grams, and I'd normally buy a pair to cook (regardless of buying for chilli or BBQ, a pair of them seems plenty enough with leftovers).
 
