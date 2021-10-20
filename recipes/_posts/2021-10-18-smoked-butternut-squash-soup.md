@@ -29,7 +29,7 @@ recipe:
     - Half the butternut squash length ways and scoop out the seeds, lightly rub with oil and season generously with salt and pepper
     - Prepare the BBQ or grill for indirect smoking at 110C/225F - 135C/275F. Add some wood chunks of your preference, squash is quite a delicate taste so don't use something overpowering like hickory, something like apple wood or oak would work well.
     - Place the butternut squash on the BBQ and cook until done, and a knife can pierce it with minimal resistance, probably 1.5 - 2 hours.
-    - [OPTIONAL] If you are shorter of time, or want to cook indoors, you can roast it traditionally in the oven - it won't get the deep smoked flavour, but will still taste prety delicious. Simply pop the prepped butternut squash on a rimmed baking tray in an oven at 200C/425F and roast for about 50 minutes (check its done the same way with a knife)
+    - OPTIONAL If you are shorter of time, or want to cook indoors, you can roast it traditionally in the oven - it won't get the deep smoked flavour, but will still taste prety delicious. Simply pop the prepped butternut squash on a rimmed baking tray in an oven at 200C/425F and roast for about 50 minutes (check its done the same way with a knife)
     - Towards the end of cooking the squash, preper the base vegetables - chop the onion and celery and saute in olive oil until soft and fragrant. Don't worry if they brown a little, this will add to the taste. About 10 minutes.
     - Add the chilli flakes, dried sage and chopped garlic and cook for a further minute or so and then remove from the heat
     - Once the squash is done, carefully remove from the grill (or oven) and scoop the flesh of the squash out, discard the skins
