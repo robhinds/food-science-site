@@ -4,6 +4,7 @@ title: Getting started with rubs&#58; A simple, sweet BBQ rub
 categories:
  - Rubs
 sitemap: false
+block_crawling: true
 hidden: true
 featured_image: /images/linkin/hot-and-fast.jpg
 image: /images/linkin/hot-and-fast.jpg

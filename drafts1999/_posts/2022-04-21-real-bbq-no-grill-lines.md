@@ -3,6 +3,7 @@ date: 2020-04-21
 title: Real BBQ doesn't have grill marks
 categories:
 sitemap: false
+block_crawling: true
 hidden: true
 featured_image: /images/linkin/hot-and-fast.jpg
 image: /images/linkin/hot-and-fast.jpg

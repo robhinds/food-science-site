@@ -9,9 +9,9 @@
 		{% seo %}
 		{% feed_meta %}
 
-		{% unless page.crawled %}
+		{% if page.block_crawling %}
 			<meta name="robots" content="noindex" />
-		{% endunless %}
+		{% endif %}
 
 		<script type="application/ld+json">
 			{

@@ -4,6 +4,7 @@ title: Southern Comfort BBQ sauce recipe
 categories:
  - BBQSauce
 sitemap: false
+block_crawling: true
 hidden: true
 featured_image: /images/linkin/hot-and-fast.jpg
 image: /images/linkin/hot-and-fast.jpg

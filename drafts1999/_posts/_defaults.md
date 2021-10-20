@@ -1,7 +1,7 @@
 ---
 title:
 categories:
-crawled: false
+block_crawling: true
 date:
 featured_image:
 recipe:

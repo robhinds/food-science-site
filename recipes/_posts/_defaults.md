@@ -1,7 +1,7 @@
 ---
 title:
 hidden: false
-crawled: true
+block_crawling: false
 categories:
 date:
 featured_image:
