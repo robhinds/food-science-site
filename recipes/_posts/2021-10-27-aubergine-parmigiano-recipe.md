@@ -6,9 +6,7 @@ layout: recipe-post
 hidden: true
 featured_image: /images/aubparm.jpg
 image: /images/aubparm.jpg
-how_to_description: Recipe to make a delicious, Aubergine Parmigiano on or off the BBQ
-how_to_name: A rich tomato sauce and grilled aubergine dish - Aubergine Parmigiano
-recipe:  
+recipe:
   servings: 4-6 people
   prep: 15 minutes
   cook: 2 hours
@@ -22,7 +20,7 @@ recipe:  
     - Mozzarella - I usually use grated for ease, but fresh would work even better
     - Parmesan cheese for topping
     - Olive oil
-  directions_markdown:
+  directions_markdown:
     - Cut the aubergine into slices length ways and salt them
     - Gently saute(fry) the onion in some olive oil until softened and starting to brown, about 10 minutes
     - Once the onions are done, add the garlic, oregano and tomato puree. Stir through and cook for about a further 1 minute  
