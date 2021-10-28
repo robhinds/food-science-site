@@ -9,9 +9,9 @@ image: /images/aubparm.jpg
 how_to_description: Recipe to make a delicious, Aubergine Parmigiano on or off the BBQ
 how_to_name: A rich tomato sauce and grilled aubergine dish - Aubergine Parmigiano
 recipe:  
-  servings: 4-6 people
-  prep: 15 minutes
-  cook: 2 hours
+  servings: 4-6 people
+  prep: 15 minutes
+  cook: 2 hours
   ingredients_markdown:
     - 2 medium large aubergines (eggplant)
     - 1 red onion, chopped
