@@ -10,7 +10,7 @@ recipe:
   servings: 4-6 people
   prep: 15 minutes
   cook: 2 hours
-  ingredients_markdown:
+  ingredients_markdown:
     - 2 medium large aubergines (eggplant)
     - 1 red onion, chopped
     - 2 cloves of garlic, chopped
