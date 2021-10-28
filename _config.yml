@@ -12,7 +12,8 @@ disqus_shortname:
 tagline: BBQ & Food Science
 description: Dedicated to all things BBQ and food science (cookies, burgers and mac'n'cheese also feature heavily).
 google_site_verification:
-type: Recipe
+seo:
+  type: Recipe
 social:
   name: RobbishFood
   links:
