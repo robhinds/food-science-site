@@ -25,6 +25,41 @@
 			}
 		</script>
 
+    {% if page.recipe and page.how_to_name %}
+		  <script type="application/ld+json">
+		    {
+		      "@context": "https://schema.org/",
+		      "@type": "Recipe",
+		      "name": "{{page.title}}",
+		      "image": [ "{{ site.baseurl }}{{ page.featured_image}}" ],
+		      "prepTime": "{{page.recipe.prep}}",
+					"cookTime": "{{page.recipe.cook}}",
+		      "recipeYield": "{{page.recipe.servings}}",
+
+		      "recipeIngredient": [
+						{% for ingredient in page.recipe.ingredients_markdown %}
+							"{{ ingredient }}"
+							{% if forloop.last == false %}
+								,
+							{% endif %}
+						{% endfor %}
+		        ],
+		      "recipeInstructions": [
+						{% for step in page.recipe.directions_markdown %}
+							{
+								"@type": "HowToStep",
+								"text": "{{ step }}"
+							}
+							{% if forloop.last == false %}
+								,
+							{% endif %}
+						{% endfor %}
+		      ]
+		    }
+		  </script>
+		{% endif %}
+
+
 
 		{% if page.faqSchema %}
 			<script type="application/ld+json">
@@ -41,38 +76,6 @@
 									"text": "{{faq.answer}}"
 								}
 							}
-							{% if forloop.last == false %}
-								,
-							{% endif %}
-						{% endfor %}
-					]
-				}
-			</script>
-		{% endif %}
-		{% if page.recipe and page.how_to_name %}
-			<script type="application/ld+json">
-				{
-					"@context": "https://schema.org",
-					"@type": "HowTo",
-					"name": "{{ page.how_to_name }}",
-      		"description": "{{ page.how_to_description }}",
-					"supply": [
-						{% for ingredient in page.recipe.ingredients_markdown %}
-							{
-								"@type": "HowToSupply",
-								"name": "{{ ingredient }}"
-							}
-							{% if forloop.last == false %}
-								,
-							{% endif %}
-						{% endfor %}
-					],
-					"step":[
-						{% for step in page.recipe.directions_markdown %}
-						  {
-						    "@type": "HowToStep",
-						    "text": "{{ step }}"
-						  }
 							{% if forloop.last == false %}
 								,
 							{% endif %}
