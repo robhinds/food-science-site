@@ -26,7 +26,7 @@ recipe:
     - 1 tablespoon tomato puree
     - 1 teaspoon marmite
     - soy sauce
-    - worcestershire sauce
+    - Worcestershire sauce
     - 2 tablespoons butter
     - 2 tablespoons flour
     - milk
@@ -37,11 +37,11 @@ recipe:
     - Place the mushrooms on a lined baking tray and roast in the oven at 180C for 50-60 minutes
     - At the same time, but the pea and barley in a saucepan and boil for 10 minutes, and then cover and simmer for a further 40 minutes
     - As those are approaching being done, cook the onion, celery and carrot in some olive oil over a gentle heat. They should be soft and starting to brown a little, probably about 10 minutes
-    - Add the roasted mushroom and drained pea and barley into a food processor with the 1 tablespoon of sundried tomatoes. I also added a dash of gravy browning at this point to give it a more convincing colour.
+    - Add the roasted mushroom and drained pea and barley into a food processor with the 1 tablespoon of sun dried tomatoes. I also added a dash of gravy browning at this point to give it a more convincing colour.
     - Process the food in short bursts of 10 seconds until it looks like a decent consistency. You don't want it to be a paste, there should still be distinct pieces in there.
     - Add the tomato puree, oregano and chopped garlic to the onion mix and stir through, cooking for a minute or so
     - Add the processed mushroom and barley mix to the pan and stir through
-    - Add a tin of chopped tomatoes, the marmite, soy sauce and worcestershire sauce - stir through and continue to cook for another 30 minutes
+    - Add a tin of chopped tomatoes, the marmite, soy sauce and Worcestershire sauce - stir through and continue to cook for another 30 minutes
     - Whilst the sauce is continuing to cook, make the cheese sauce
     - The roux - Melt the butter in a saucepan, once bubbling stops add the flour and whisk together to form a paste
     - The béchamel - Gently add in the milk, whisking every time until the sauce is well mixed and smooth
