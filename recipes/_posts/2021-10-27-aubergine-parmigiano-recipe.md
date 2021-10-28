@@ -22,8 +22,8 @@ recipe:
     - Olive oil
   directions_markdown:
     - Cut the aubergine into slices length ways and salt them
-    - Gently saute(fry) the onion in some olive oil until softened and starting to brown, about 10 minutes
-    - Once the onions are done, add the garlic, oregano and tomato puree. Stir through and cook for about a further 1 minute  
+    - Gently saute (fry) the onion in some olive oil until softened and starting to brown, about 10 minutes
+    - Once the onions are done, add the garlic, oregano and tomato puree. Stir through and cook for about a further 1 minute
     - Add the chopped tomatoes and stir through. Continue to cook on the hob, stirring occasionally whilst you cook the aubergines
     - The salt will have started to draw out some moisture from the aubergine (you will probably see moisture on top of the slices), rinse the moisture and excess salt of under cold water and pat dry with kitchen towel
     - Rub the aubergine slices with olive oil and cook them on a hot grill (I use direct heat on a BBQ, but a pre-heated griddle pan will work as well). Aubergines will absorb a lot of oil, so continue to brush them with olive oil whilst they cook. Once they have browned a little, remove them to a plate. You will probably need to cook these slices in batches.
