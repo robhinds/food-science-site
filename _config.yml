@@ -9,15 +9,10 @@ newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /android-chrome-192x192.png
 tagline: BBQ & Food Science
 description: Dedicated to all things BBQ and food science (cookies, burgers and mac'n'cheese also feature heavily).
 google_site_verification:
-author:
-  name: Rob Hinds
-  email:
-  twitter: robhinds
-  url: https://www.robbishfood.com/about/
+type: Recipe
 social:
   name: RobbishFood
   links:
