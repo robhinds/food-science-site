@@ -10,19 +10,19 @@ recipe:
   servings: 4 fried chicken burgers, scale appropriately as you need!
   prep: 10 minutes
   cook: 1 hour sous vide + 3-5 minutes frying
-  ingredients_markdown: |-
-    * 4 chicken breasts
-    * 150ml buttermilk
-    * 5 teaspoons spice rub - you can absolutely make your own, but BBQ rubs are great for this.
-    * 100 grams flour
-  directions_markdown: |-
-    1. Salt the chicken breast and leave to brine in the fridge, ideally overnight but no big deal if you don't have the time
-    2. Setup the sous vide to cook at 63 degrees, vacuum pack (or use a ziploc bag with the submersion method) and cook the chicken breasts for one hour
-    3. Create the dry batter mix by mixing flour and spices together
-    4. Remove the bag from the water bath, and cool in an ice bath or under cold running water (still in the bags)
-    5. Remove the chicken from the bags, pat dry and dip in buttermilk and then dredge in batter
-    6. Put the chicken pieces, taking care not to overcrowd the pan, in the fryer at 190-200 degrees and cook for about three minutes (or until the batter looks golden and crispy)
-    7. Remove from the oil, pat dry and serve in buns with condiments of your choosing!
+  ingredients_markdown:
+    - 4 chicken breasts
+    - 150ml buttermilk
+    - 5 teaspoons spice rub - you can absolutely make your own, but BBQ rubs are great for this.
+    - 100 grams flour
+  directions_markdown:
+    - Salt the chicken breast and leave to brine in the fridge, ideally overnight but no big deal if you don't have the time
+    - Setup the sous vide to cook at 63 degrees, vacuum pack (or use a ziploc bag with the submersion method) and cook the chicken breasts for one hour
+    - Create the dry batter mix by mixing flour and spices together
+    - Remove the bag from the water bath, and cool in an ice bath or under cold running water (still in the bags)
+    - Remove the chicken from the bags, pat dry and dip in buttermilk and then dredge in batter
+    - Put the chicken pieces, taking care not to overcrowd the pan, in the fryer at 190-200 degrees and cook for about three minutes (or until the batter looks golden and crispy)
+    - Remove from the oil, pat dry and serve in buns with condiments of your choosing!
 faqSchema:
   - title: "Why should I twice cook fried chicken?"
     answer: "Twice cooking fried chicken helps ensure the perfect balance of soft, juicy chicken breast and tasty, crispy batter. The first cook at a lower temperature gently and evenly cooks the chicken and the second, quick cook at a much higher temperature crisps up the batter perfectly."
