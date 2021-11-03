@@ -32,13 +32,13 @@
 		      "@type": "Recipe",
 		      "name": "{{page.title}}",
 		      "image": [ "https://www.robbishfood.com{{ page.featured_image}}" ],
-		      "prepTime": "{{page.recipe.prep}}",
-					"cookTime": "{{page.recipe.cook}}",
-		      "recipeYield": "{{page.recipe.servings}}",
+		      "prepTime": "{{page.recipe.prep | strip_html }}",
+					"cookTime": "{{page.recipe.cook | strip_html }}",
+		      "recipeYield": "{{page.recipe.servings | strip_html }}",
 
 		      "recipeIngredient": [
 						{% for ingredient in page.recipe.ingredients_markdown %}
-							"{{ ingredient }}"
+							"{{ ingredient | strip_html }}"
 							{% if forloop.last == false %}
 								,
 							{% endif %}
@@ -48,7 +48,7 @@
 						{% for step in page.recipe.directions_markdown %}
 							{
 								"@type": "HowToStep",
-								"text": "{{ step }}"
+								"text": "{{ step | strip_html }}"
 							}
 							{% if forloop.last == false %}
 								,
@@ -70,10 +70,10 @@
 						{% for faq in page.faqSchema %}
 							{
 								"@type": "Question",
-								"name": "{{faq.title}}",
+								"name": "{{faq.title | strip_html }}",
 								"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{faq.answer}}"
+									"text": "{{faq.answer | strip_html }}"
 								}
 							}
 							{% if forloop.last == false %}
