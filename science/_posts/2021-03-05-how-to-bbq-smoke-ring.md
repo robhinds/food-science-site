@@ -1,5 +1,6 @@
 ---
 date: 2021-03-05
+last_modified_at: 2021-11-05
 title: How-to BBQ&#58; Getting a bigger smoke ring
 categories:
 featured_image: /images/smokeringcontrol.jpg

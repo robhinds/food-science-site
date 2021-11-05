@@ -1,5 +1,6 @@
 ---
 date: 2018-08-13
+last_modified_at: 2021-11-05
 hidden: false
 title: 4th Best Chilli in the UK
 categories:

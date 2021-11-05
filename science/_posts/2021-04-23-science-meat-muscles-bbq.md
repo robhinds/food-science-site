@@ -1,5 +1,6 @@
 ---
 date: 2021-04-23
+last_modified_at: 2021-11-05
 title: The science of meat&#58; The impact of muscle groups on BBQ and cooking
 categories:
 featured_image: /images/hangersteak.jpg

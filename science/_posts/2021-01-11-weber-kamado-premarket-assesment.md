@@ -1,5 +1,6 @@
 ---
 date: 2021-01-11
+last_modified_at: 2021-11-05
 hidden: false
 title: Weber Summit Kamado - Pre-market assesment (the science of kamado cooking)
 layout: post

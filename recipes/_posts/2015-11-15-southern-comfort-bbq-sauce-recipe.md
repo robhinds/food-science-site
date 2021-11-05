@@ -1,5 +1,6 @@
 ---
 date: 2015-11-15
+last_modified_at: 2021-11-05
 hidden: false
 title: How-to BBQ&#58; Southern Comfort BBQ sauce recipe
 categories:

@@ -1,5 +1,6 @@
 ---
 date: 2021-03-24
+last_modified_at: 2021-11-05
 title: The science of hot-and-fast BBQ
 categories:
 layout: post

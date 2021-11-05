@@ -1,5 +1,6 @@
 ---
 date: 2021-08-27
+last_modified_at: 2021-11-05
 title: How-to BBQ&#58; The ultimate guide to BBQ brisket
 categories:
  - howto

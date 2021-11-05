@@ -1,5 +1,6 @@
 ---
 date: 2021-04-12
+last_modified_at: 2021-11-05
 title: Yippe-cayenne motherclucker - deep fried chicken burger
 categories:
 layout: recipe-post
