@@ -23,7 +23,7 @@ recipe:
     - Use the spice mix liberally on anything - from pieces of meat, vegetables or topping on mac'n'cheese
 ---
 
-I have previously reviewed a pizza inspired rub from RubWolfer called "Pizza Wings" which is sadly no longer available, so this spice mix was inspired by that. Basically its a seasoning or spice mix that captures flavours of pizza.
+I have previously reviewed a pizza inspired <a href="https://www.robbishfood.com/reviews/2021/01/31/subwolfer-pizza-wings/" target="_blank">rub from RubWolfer called "Pizza Wings"</a> which is sadly no longer available, so this spice mix was inspired by that. Basically its a seasoning or spice mix that captures flavours of pizza.
 
 Whilst the idea for a pizza flavour seasoning came from my enjoyment of Pizza Wings, my real goal was to create a flavour profile more like Dominos take-away pizza. I enjoy Dominos pizza, their "Meateor" pizza with the classic tomato sauce is my go to pizza from them, and this is what this is going for.
 
