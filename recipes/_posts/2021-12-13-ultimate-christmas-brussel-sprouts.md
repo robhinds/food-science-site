@@ -5,6 +5,7 @@ title: Ultimate guide to Christmas dinner&#58; Brussel sprouts!
 categories:
  - howto
 layout: recipe-post
+hidden: true
 featured_image: /images/vinegarsprouts.jpg
 image: /images/vinegarsprouts.jpg
 how_to_description: How to create a perfect Christmas dinner - Brussel sprouts!
