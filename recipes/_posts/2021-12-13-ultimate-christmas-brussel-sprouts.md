@@ -3,7 +3,7 @@ date: 2021-12-17
 last_modified_at: 2021-12-17
 title: Ultimate guide to Christmas dinner&#58; Brussel sprouts!
 categories:
- - howto
+ - christmas
 layout: recipe-post
 hidden: true
 featured_image: /images/vinegarsprouts.jpg

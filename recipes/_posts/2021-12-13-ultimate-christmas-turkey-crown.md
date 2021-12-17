@@ -3,7 +3,7 @@ date: 2021-12-13
 last_modified_at: 2021-12-13
 title: Ultimate guide to Christmas dinner&#58; Turkey crown
 categories:
- - howto
+ - christmas
 layout: recipe-post
 featured_image: /images/turkeycrown.jpg
 image: /images/turkeycrown.jpg
