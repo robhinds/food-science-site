@@ -17,13 +17,13 @@ recipe:
   ingredients_markdown:
     - 1 kg brussel sprouts, shelled and halved
     - A tablespoon of butter
-    - 300 grams streaky bacon, chopped (regualr bacon is fine if thats what you have)
-    - [Optional - vinegar sprouts] Balsamic vinegar
-    - [Optional - cheesey sprouts] 30 grams unsalted butter (about 2 tablespoons)
-    - [Optional - cheesey sprouts] 15 grams plain flour (about 2 tablespoons)
-    - [Optional - cheesey sprouts] 350 grams mature cheddar, grated (stronger the better if you ask me!)
-    - [Optional - cheesey sprouts] 400 ml milk
-    - [Optional - cheesey sprouts] teaspoon wholegrain mustard
+    - 300 grams streaky bacon, chopped (regular bacon is fine if thats what you have)
+    - Optional - vinegar sprouts Balsamic vinegar
+    - Optional - cheesey sprouts 30 grams unsalted butter (about 2 tablespoons)
+    - Optional - cheesey sprouts 15 grams plain flour (about 2 tablespoons)
+    - Optional - cheesey sprouts 350 grams mature cheddar, grated (stronger the better if you ask me!)
+    - Optional - cheesey sprouts 400 ml milk
+    - Optional - cheesey sprouts teaspoon wholegrain mustard
   directions_markdown:
     - Scatter the sprouts in a baking tray along with the butter and roast at 200C in a pre-heated oven for about 25 minutes. The sprouts should be nicely browned
     - After 10 minutes, add the chopped bacon to the tray and mix through, continue to roast for the remaining time
