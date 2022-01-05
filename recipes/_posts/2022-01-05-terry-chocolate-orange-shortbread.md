@@ -45,11 +45,11 @@ I choose to use unsalted butter and add the salt myself, but thats mostly habit.
 
 <br>
 
-Ok, all this said, I'm going to be slightly contradictory and say for this recipe, the above isn't entirely true. You could make this base shortbread recipe on its own, in which case you should make sure you try to use the best ingredients possible. However, for this recipe we are going to add an entire chocolate orange to our biscuits. Again, as you might imagine, the flavours from that are going to dominate here. The subtlety of a decent butter will be lost when its slammed together with chocolate orange! Basically this means you can use your standard supermarket brand butter and white caster sugar and you will be pushed to tell the difference with all that chocolate and orane oil in the mix.
+Ok, all this said, I'm going to be slightly contradictory and say for this recipe, the above isn't entirely true. You could make this base shortbread recipe on its own, in which case you should make sure you try to use the best ingredients possible. However, for this recipe we are going to add an entire chocolate orange to our biscuits. Again, as you might imagine, the flavours from that are going to dominate here. The subtlety of a decent butter will be lost when its slammed together with chocolate orange! Basically this means you can use your standard supermarket brand butter and white caster sugar and you will be pushed to tell the difference with all that chocolate and orange oil in the mix.
 
 <br>
 
-These are a delicious and fun biscuit, super quick to make and are a nice festive gift or snack to offer around the Christmas period (or whenever, we just traditionally eat chocolate orange at christmas)
+These are a delicious and fun biscuit, super quick to make and are a nice festive gift or snack to offer around the Christmas period (or whenever, we just traditionally eat chocolate orange at Christmas)
 
 <br>
 <br>
