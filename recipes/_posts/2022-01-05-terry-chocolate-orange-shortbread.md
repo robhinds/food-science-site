@@ -35,6 +35,8 @@ I love shortbread. Such a simple biscuit, just letting the butter, and sugar do 
 
 Thankfully, we have upped our game. I'm not sure if its the arrival of coffee shop chains that have forced people, or something else. But thankfully it is possible to get half decent shortbread much more widely now.
 
+<br>
+
 Anyway, I digress.
 
 The key with shortbread, as you may imagine, is quality ingredients. We are making a biscuit with 3 of them (4 if you count salt), so they are all going to have to hold their own (the flour less so). For this reason, I prefer a golden caster sugar - white caster sugar will work just fine, but thats just my preference. Butter is where you don't want to scrimp. If you can get hold of some decent, full of flavour, proper butter then your shortbread will be all the better for it.
