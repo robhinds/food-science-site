@@ -1,7 +1,7 @@
 ---
 date: 2021-02-05
-last_modified_at: 2021-11-05
-title: How-to BBQ&#58; Low-and-slow smoked beef short ribs
+last_modified_at: 2022-17-13
+title: The ultimate guide to BBQ beef short ribs
 categories:
  - howto
 layout: recipe-post
@@ -35,11 +35,15 @@ faqSchema:
     answer: "Beef short ribs (jacobs ladder) are best cooked low and slow between 110-135C/225-275F."
   - title: "How do I cook boneless beef short ribs?"
     answer: "Boneless beef short ribs, and individual beef short ribs, can be cooked exactly the same way - and the same way as a rack of beef short ribs (jacobs ladder) - the only difference will be the cook times will be significantly reduced. Boneless beef short ribs are best cooked low and slow between 110-135C/225-275F."
+  - title: "What wood should I use to smoke beef short ribs?"
+    answer: "A strong flavoured wood works well with big, bold, BBQ beef cuts like short ribs. Go for something like hickory or oak."
 ---
 
-Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_. All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
+Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_.
 
-I often use short ribs for lots of other cooks too - in chilli-con-carne or generally any slow cooked stew or casserole.
+All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change. I have used this technique on a variety of grills, with my ceramic kamado or my Weber Smokey Mountain bullet smoker being my usual method of choice!
+
+Like most _hard working_ cuts of beef, beef short ribs can be used for lots of other cooks too suc as in chilli-con-carne or generally any slow cooked stew or casserole. I quite often make a short rib chilli by smoking the ribs for a few hours on the kamado before cubing the meat and adding (along with the bones) to a chilli base and put it back on the grill to slowly braise. Beautiful.
 
 <a href="https://www.instagram.com/stories/highlights/18063812545237550/" target="_blank" rel="nofollow">I have a short set of video clips of me trimming, cooking and checking a three bone rack of beef short ribs on Instagram - 3 1/2 minutes in all, so give it a watch!</a>
 
@@ -47,11 +51,13 @@ I often use short ribs for lots of other cooks too - in chilli-con-carne or gene
 <br>
 
 ## 1. How to buy beef short ribs
-Here in the UK, short ribs are not quite readily available in all supermarkets yet. They have grown in popularity the last few years (high street chains such as _Pret_ offering a beef short rib mac'n'cheese dish), but still not to the point of supermarkets. Waitrose will offer individually cut and packaged beef short ribs, but outside of that you will need to pay a visit to your butcher.
+Here in the UK, short ribs are not quite readily available in all supermarkets yet. They are growing in popularity the last few years (high street chains such as _Pret_ offering a beef short rib mac'n'cheese dish), but still not to the point of all supermarkets. Waitrose will offer individually cut and packaged beef short ribs, and have done for quite a while, although you have to rummage about to find some of decent size. A year ago or so (2021), Sainsburys trialled stocking some more BBQ friendly beef with a two pack short rib offering and a full brisket point. I picked up a couple of the short ribs, and whilst I would have preferred them to be a single rack rather than two individual cuts, they were far more impressive in size. If you see them in your local Sainsburys and don't have a decent local butcher, then I'd recommend grabbing some (stick them in the freezer if you aren't about to use them straight away). That said, the price (per weight) is about the same, so if you want smaller portions then Waitrose is likely your best bet.
 
-If you go to the butcher, you will probably be rewarded with far meatier ribs, and most likely better value for money. Not to mention the option to get the more impressive looking full racks (or as many bones as you need). A two or three bone rack makes for a more impressive cook than individual ribs (although not as favourable meat to bark ratio). If you are serving short ribs with nothing else, but some sides, then you probably want to allow a bone per person, but if you are putting on a bigger platter, a two to three bone rack can go pretty far.
+<a href="https://www.sainsburys.co.uk/gol-ui/product/sainsburys-matured-british-beef-short-ribs-taste-the-difference-x2-approx-15kg-" target="_blank">Sainsburys pack of two ribs</a> is estimated at 1.5kg where as the <a href="https://www.waitrose.com/ecom/products/waitrose-british-beef-short-ribs/859587-373721-373722" target="_blank">Waitrose pack of two ribs</a> is estimated at 0.54kg!
 
-If you do end up buying from a supermarket (Waitrose), then as usual, look for the heavier packs, as these will be meatier.
+However, if you can go to the butcher for your ribs, you will probably be rewarded with far meatier ribs, and most likely better value for money. Not to mention the option to get the more impressive looking full racks (or as many bones as you need). A two or three bone rack makes for a more impressive cook than individual ribs (although not as favourable meat to bark ratio).
+
+In terms of portion sizing, if you are serving short ribs with nothing else, but some sides, then you probably want to allow a bone per person, but if you are putting on a bigger platter, a two to three bone rack can go pretty far. When I have been doing a big spread for lots of people, I will often have a three bone rack to share - easily sliceable or even shredded and goes quite a way.
 
 <br>
 <br>
@@ -87,6 +93,10 @@ We may find that we inevitably hit a _stall_ in cooking (that is when the intern
 <br>
 
 The cook remains the same, timing aside, if you are cooking individual bone beef ribs or if you are smoking boneless beef ribs (which are smaller, due to not having a bone). Individual beef short ribs and boneless beef short ribs will both cook quicker than a rack of three bone-in ribs because the shortest distance to the thickest part of the meat is smaller.
+
+<br>
+
+When it comes to smoking flavours, beef can hold up to pretty bold smoking woods, and some of the lighter ones might not make as obvious an impression as you want. When I think BBQ beef I think deep, savoury beefy flavours, black pepper, some heat and a good strong smoke flavour. For BBQ beef (short ribs, brisket, cheek, anything really!) I'd go for hickory or oak. You can of course use whatever wood you have available, but generally a lighter, fruity wood such as apple or cherry etc will be quite a bit milder.
 
 <br>
 <br>
