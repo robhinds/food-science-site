@@ -1,6 +1,6 @@
 ---
 date: 2021-02-05
-last_modified_at: 2022-17-13
+last_modified_at: 2022-07-13
 title: The ultimate guide to BBQ beef short ribs
 categories:
  - howto
