@@ -1,8 +1,8 @@
 ---
 date: 2020-10-21
-last_modified_at: 2021-11-05
+last_modified_at: 2022-08-22
 hidden: false
-title: Ultimate fake-away doner kebab at home
+title: Ultimate fake-away&#58; Doner kebabs at home!
 categories:
   - kebabs
 featured_image: /images/linkin/kebabs.jpg
@@ -34,9 +34,35 @@ recipe:
 Rotisserie cooking is great for so many things, and this fake doner kebab is a great example. I grew up eating dodgy doner kebabs after a night out, they were always (at least in my memories) so deliciously greasy.
 
 I remember discovering one kebab place in Birmingham that would do doner kebab buns (the meat piled in a soft roll rather than a full kebab with pitta and dressings) for 99p and was blown away by the value! Obviously no questions were asked about the quality on source of the meat, but at 99p for that much deliciousness we really didn't care!
+
+<br>
+## Cooking without a rotisserie (or in an oven!)
+
+This recipe is designed for a rotisserie - I use a grill called the Barbeskew (which is basically a big old grill with multiple rotisseries on it), but the most popular rotisserie on the BBQ scene these days is the rotiserrie adapter for the Kamado Joe range, the _Joetisserie_ (also fits the Masterbuilt and probably many other Kamado models).
+
+However, fear not if you don't have a rotisserie! of course, this can be shaped and cooked in an over on regular BBQ without the rotisserie (e.g. if you have a Kamado Joe without the adpater, a traeger, or an indoor fan oven!). If you want to cook this in an oven (or any indirect heating approach), shape it to a similar size and cook in the oven - If shaping it to one large kebab (or an _elephants foot_ as we used to refer to the meat spinning in the late night kebab shops), then I'd cook it at about 180C for about 40 minutes, and check for doneness from about 30 minutes onwards (an internal meat temperature probe will make all the difference here, I really do recommend using one to check progress here!). If cooking without a rotisserie, then an easier option is probably to shape into smaller, individual kebabs more like a sausage size - they will cook far quicker, and much easier to chop one of them to check cooking progress.
+
 <br>
 <br>
 This kebab isn't too close to the originals, which is probably a good thing, but the spinning nature of the rotisserie does mean that a lot of the moisture doesn't escape during cooking and has a beautifully moist, flavourful kebab (fat = flavour after all). If you can, do try to make sure you have meat with a higher fat content, as you will be rewarded in flavour and moisture.
+<br>
+<br>
+
+## Keep it fatty!
+I'd like to say this is a healthy meal that you could eat whenever you like, but whilst it is undoubtedly healthier (both in terms of fat content and risk of food-borne disease!) that a traditional late-night kebab, it is still fairly unhealthy eating!
+
+You might think that you could make it a bit healthier by adjusting the ingredients, but honestly, the fat content in the kebab is an important part of what makes it so great (and what keeps it so moist).
+
+Making this, I'll always look for 20% fat content with my lamb if buying it pre-packaged (supermarkets normally offer packs in increments from about 5% to 20% fat content), or if I'm mincing the meat myself I'll start with something like diced lamb shoulder for example. If you don't eat pork then you can off course leave that out, but I generally find it brings a bit more fat to the mix (literally). If you want to make it a bit leaner, then you will need to be even more vigilant on not over-cooking it, so it remains nice and moist and doesn't dry out. Lamb is of course fine to cook a bit pinker, but I wouldn't recommend going to pink with shop bought mince (if you are mincing your own lamb, then its safer).
+
+<br>
+<br>
+
+## The spice mix
+The recipe below suggests a fairly paired down spice mix, which I find works well (and it's nice to have a simpler blend to use rather than having to worry about making mixing lots up). The other parts (the lamb + fire mostly!) bring a lot of flavour to the party, so don't find it needs much more.
+
+If you want to make it even easier with a pre-mixed run, I can highly recommend <a href="https://angusandoink.com/products/shawarma-seasoning?utm_source=robbishfood" target="_blank">Angus & Oink's Shawarma Seasoning </a> - it works great in kebabs or just generally as a seasoning on smoked lamb (I have used it several times on my smoked lamb shoulder)
+
 <br>
 <br>
 

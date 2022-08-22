@@ -1,6 +1,6 @@
 ---
 date: 2021-08-26
-last_modified_at: 2021-11-05
+last_modified_at: 2022-08-22
 title: How-to BBQ&#58; Low-and-slow smoked beef cheeks (ox cheeks)
 categories:
  - howto
@@ -50,11 +50,13 @@ All these BBQ recipes will work equally well on a ceramic kamado grill such as a
 <br>
 
 ## 1. How to buy beef cheeks (ox cheeks)
-Unfortunately, here in the UK, beef cheeks have not made it as mainstream as beef short ribs yet - whilst beef short ribs are becoming more and more available (Waitrose has long stocked them, and Sainsburys has recently trialled their addition), I am yet to see beef cheeks in a supermarket.
+Unfortunately, here in the UK, beef cheeks have not made it as mainstream as beef short ribs yet - whilst beef short ribs are becoming more and more available (Waitrose has long stocked them, and Sainsburys has recently trialled their addition).
 
-That's fine though, as they are easily purchased from your local butcher - they should understand if you go in and ask for _beef cheeks_ or _ox cheeks_. Each cheek is likely going to weigh 400 - 500 grams, and I'd normally buy a pair to cook (regardless of buying for chilli or BBQ, a pair of them seems plenty enough with leftovers).
+A quick update for UK, 2022 - I was in Morrisons this summer, and came across pre=packed beef cheeks! They weren't huge, but were reasonably priced at £9 per kilogram (packages I saw seemed to be around 250grams upwards, so you may want to grab a couple, but they are well priced). Furthermore, they seem pretty well trimmed (maybe excessively so, which would account for the smaller pack sizes, but I couldn't see that any additional prep would have been needed to start cooking these in terms of trimming)
 
-Im not sure why they are often called _ox cheeks_, bit like ox tail - but rest assured that ox cheeks and beef cheeks are the exact same thing!
+If you don't have a Morrisons then do not fear, as they are easily purchased from your local butcher - they should understand if you go in and ask for _beef cheeks_ or _ox cheeks_. Each cheek from a butcher is likely going to weigh 400 - 500 grams (so almost twice the size as some of the supermarket options), and I'd normally buy a pair to cook (regardless of buying for chilli or BBQ, a pair of them seems plenty enough with leftovers). Even if you have a Morrisons near by, if you have a decent local butcher I'd still recommend the butcher as the size, quality and taste will probably be much better! (plus it's always good to support local butchers where you can, and most likely, if its a good butcher you will also be supporting local farmers and being more environmentally friendly with reduced transport).
+
+Im not sure why they are often called _ox cheeks_, bit like ox tail, whilst most of the rest of the cow is referred to as _beef_ - you don't ask for _ox steak_ or for _ox ribs_ - but rest assured that ox cheeks and beef cheeks are the exact same thing!
 
 <br>
 <br>

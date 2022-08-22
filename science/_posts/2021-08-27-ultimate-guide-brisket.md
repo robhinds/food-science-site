@@ -1,6 +1,6 @@
 ---
 date: 2021-08-27
-last_modified_at: 2021-11-05
+last_modified_at: 2022-08-22
 title: How-to BBQ&#58; The ultimate guide to BBQ brisket
 categories:
  - howto
@@ -15,6 +15,8 @@ Brisket is one of the most iconic BBQ cooks you can do. For those on the circuit
 Thankfully, with time and practice, anyone can get to the point of cooking great brisket and wowing all their dinner guests. And whilst nothing can replace time and experience, we can utilise science to improve our chances and understanding of what exactly is going on during the cook.
 
 I have resisted writing about brisket for a while now, in part because I generally find brisket recipes to be somewhat disappointing. After all, for a traditional low-and-slow brisket cook, aside from details on how to trim the meat, it really is just applying the rub and then cooking low and slow until its done, anywhere from 8 to 15 hours! Whilst it is re-assuring to read that it is this vague for everyone, I'm not sure how much more helpful it is to have a one line recipe. But there is a lot to be said about it (and lots of people have covered lots of this ground in lots of great videos and articles), so I wanted to tackle some of that now.
+
+As with most recipes here, this is what I'd like to think of as a _universal ultimate guide_ to cooking Brisket. The techniques and approaches we cover here can be applied whether cooking your brisket in a bullet smoker, like a Weber Smokey Mountain, a Kamado such as Kamado Joe, Big Green Egg, a pellet grill such as a Traeger or even your regular indoor oven. All of those devices cook with the same basic principle (heat convection currents and indirect heat), so really whatever you are using, this guide will work for you! My most recent (at time of writing) brisket cook was hot-and-fast on my kamado and it came out just great!
 
 <br>
 <br>

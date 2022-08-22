@@ -1,6 +1,6 @@
 ---
 date: 2021-10-13
-last_modified_at: 2021-11-05
+last_modified_at: 2022-08-22
 title: How-to BBQ&#58; Rack of lamb
 categories:
  - howto
@@ -33,6 +33,14 @@ A rack of lamb is a more expensive piece of meat than I usually cover here (at l
 I have done this cut a few different ways, in terms of flavours, but this recipe is for the simplest (and arguably the best) version, we will just season it and then cook it with fire, nothing else to it!
 
 <br>
+
+These techniques and recipe applies to pretty much any cooking device, you could follow this approach with an indoor fan oven if you wanted (replacing the dirty sear at the end with a heavy bottom pan to sear it). It will work easily with a bullet smoker like a Weber Smokey Mountain, a pellet grill like a Traeger or just a standard kettle grill.
+
+However, my go to for a rack of lamb is always going to be my Kamado - If you have a Kamado Joe, Big Green Egg, Masterbuilt or any other Kamado, a piece like a rack of lamb is where a kamado grill really comes into its own.  Unlike traditional low-and-slow BBQ joints, where we are looking to hit higher internal temperatures, a rack of lamb (much like a good steak, in my opinion) wants to be nicely medium-rare pink inside with a nice sear on the outside.
+
+The edge-to-edge, evenly cooked internal is easily done <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">low-and-slow</a> on your grill, but the switch to a super hot cooking environment for the sear is where your Kamado will excel, whip out the divider, open up those vents and get the coals running hot and finish it up!
+
+<br>
 <br>
 
 ## 1. How to buy a rack of lamb
@@ -44,7 +52,7 @@ Racks of lamb are usually available from the meat counter at decent supermarkets
 <br>
 
 ## 2. Preparing rack of lamb for cooking
-There really is very little to this part, all we will do is score the fat-cap on the top of the rack of lamb and then generously salt it.
+There really is very little to this part, all we will do is score the fat-cap on the top of the rack of lamb and then generously salt it. When I score it, I generally go for a diamond pattern (diagonal slices in one direction, then opposite diagonal slices to create a diamond pattern).
 
 Even if I am doing a herb crusted rack of lamb, the initial prep stage is always the same. You can add other flavours, but it really doesn't need it.
 
