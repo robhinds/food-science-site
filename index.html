@@ -12,7 +12,7 @@ last_modified_at: 2022-08-22
 					<picture>
 						<source srcset="{{ site.baseurl }}{{ post.featured_image | replace: ".jpg", ".webp" | replace: ".png", ".webp" }}" type="image/webp">
 						<source srcset="{{ site.baseurl }}{{ post.featured_image }}" type="image/jpeg">
-						<img src="{{ site.baseurl }}{{ post.featured_image }}" alt="{{ post.title }}" style="aspect-ratio: auto 780 / 580;">
+						<img src="{{ site.baseurl }}{{ post.featured_image }}" alt="{{ post.title }}" style="aspect-ratio: auto 780 / 580; width: 100%;">
 					</picture>
 				</div>
 			{% else %}
