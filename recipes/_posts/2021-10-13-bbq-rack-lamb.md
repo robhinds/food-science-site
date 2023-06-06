@@ -22,6 +22,7 @@ recipe:
     - Once the lamb hits the internal temperature, take it off the grill and crank up the heat - open all the vents and get the coals nice and hot.
     - Using a tool (and being careful not to burn yourself), gently rake the coals to knock any excess ash off.
     - Place the rack of lamb fat side down in the hot coals, it will very quickly start to sear, monitor it closely, checking and turning if necessary every few seconds
+    - If you don't feel comfortable putting the meat direct into live coals, or don't have that available the sear can be done in a hot, heavy bottom frying pan (a cast iron skillet a good option if you have one) - even if not using the live fire, its important to still sear the lamb to properly render the fat so its nicely crisp on the outside and not chewy.
     - Once seared all over, remove, slice and serve!
 ---
 _(dirty cooked salt-marsh lamb, on a bed of minted broccoli and pea puree served with crushed garlic baby gem potatoes)_
@@ -40,6 +41,10 @@ However, my go to for a rack of lamb is always going to be my Kamado - If you ha
 
 The edge-to-edge, evenly cooked internal is easily done <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">low-and-slow</a> on your grill, but the switch to a super hot cooking environment for the sear is where your Kamado will excel, whip out the divider, open up those vents and get the coals running hot and finish it up!
 
+That all said, there is no reason you can't use this technique on a bullet smoker, pellet grill or gas bbq - you just need any BBQ or oven where you can control the temperature to cook _low-and-slow_ for a while before finishing with a hot sear. I have also cooked this sous-vide, doing the initial cook sous-vide and then searing on the hot coals (or cast iron pan on the hob).
+
+The above photo I served it with broccoli puree, which is a common go-to for me - it's just roughly but finely chopped broccoli, gently steamed in a few tablespoons of water (depending on amount of broccoli and size of the pan - we are aiming to have no liquid left after cooking, so not so much water we need to drain it later) and a knob of butter, once its cooked for five minutes or so, whilst it's still a nice bright colour (and hopefully the liquid evaporated + absorbed) I blitz it with a handheld blender with another knob of butter and salted to taste. Another great combination is Moroccan style lamb + a minted pea puree (essentially cook peas, puree with fresh mint + butter).
+
 <br>
 <br>
 
@@ -47,6 +52,8 @@ The edge-to-edge, evenly cooked internal is easily done <a href="https://www.rob
 As I mentioned, a rack of lamb can be quite pricey, and they aren't a huge cut - a single rack could easily be a decent feed for two people, or if served with other stuff as a smaller meal, it could stretch to 4. You should obviously judge the size available when you buy it if you think you should buy two, some will be more meaty than others.
 
 Racks of lamb are usually available from the meat counter at decent supermarkets, but as usual the best place to pick one up will be your local butcher. I'm lucky where I am, living in South Wales, we have excellent local lamb, so our butchers is always my go to for lamb (they also stock something called _Salt Marsh Lamb_ which is lamb that grazes on the estuary salt marsh, feeding on plants grown there such as samphire etc) - luckily if you are in the UK, <a href="https://www.tuckersbutchers.com/" target="_blank">they also deliver nationwide</a>.
+
+High-end high street retailers and supermarkets will often offer racks of lamb, but often the price for the size of them is enough to make you want to cry, but it's a great option for a nice treat or special meal, but just be prepared for a nerve wracking cook - the high price and more precise temperature required for medium-rare (compared to _low-and-slow_ brisket where temperature is much more forgiving) makes it a little stressful!
 
 <br>
 <br>

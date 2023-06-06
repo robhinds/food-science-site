@@ -1,6 +1,6 @@
 ---
 date: 2021-02-05
-last_modified_at: 2022-07-13
+last_modified_at: 2023-06-06
 title: The ultimate guide to BBQ beef short ribs
 categories:
  - howto
@@ -41,9 +41,11 @@ faqSchema:
 
 Beef short ribs are one of my all time favourite cuts to cook low and slow. They are always popular on the BBQ circuit, and have an incredible savoury, meaty flavour. They cook down to a beautifully tender, flavourful cook and also provide really impressive servings as _Dino Bones_.
 
-All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change. I have used this technique on a variety of grills, with my ceramic kamado or my Weber Smokey Mountain bullet smoker being my usual method of choice!
+All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change. I have used this technique on a variety of grills, with my ceramic kamado or my Weber Smokey Mountain bullet smoker being my usual method of choice (to be honest, the Weber Smokey Mountain would be my go to for shortribs, just because its capable of getting a better smoke than many other options.. ok ok, not as good as proper offset, but that's a whole other topic!)
 
-Like most _hard working_ cuts of beef, beef short ribs can be used for lots of other cooks too suc as in chilli-con-carne or generally any slow cooked stew or casserole. I quite often make a short rib chilli by smoking the ribs for a few hours on the kamado before cubing the meat and adding (along with the bones) to a chilli base and put it back on the grill to slowly braise. Beautiful.
+Like most _hard working_ cuts of beef, beef short ribs can be used for lots of other cooks too such as in chilli-con-carne or generally any slow cooked stew or casserole. I quite often make a short rib chilli by smoking the ribs for a few hours on the kamado before cubing the meat and adding (along with the bones) to a chilli base and put it back on the grill to slowly braise. Beautiful.
+
+It is also possibly to cook short ribs _hot-and-fast_, as is often the preferred technique in Argentinian BBQ or live fire cooking, but for this discussion we will focus on the Texas style of _low-and-slow_ smoked beef ribs rather than any of those other techniques.
 
 <a href="https://www.instagram.com/stories/highlights/18063812545237550/" target="_blank" rel="nofollow">I have a short set of video clips of me trimming, cooking and checking a three bone rack of beef short ribs on Instagram - 3 1/2 minutes in all, so give it a watch!</a>
 
@@ -51,13 +53,13 @@ Like most _hard working_ cuts of beef, beef short ribs can be used for lots of o
 <br>
 
 ## 1. How to buy beef short ribs
-Here in the UK, short ribs are not quite readily available in all supermarkets yet. They are growing in popularity the last few years (high street chains such as _Pret_ offering a beef short rib mac'n'cheese dish), but still not to the point of all supermarkets. Waitrose will offer individually cut and packaged beef short ribs, and have done for quite a while, although you have to rummage about to find some of decent size. A year ago or so (2021), Sainsburys trialled stocking some more BBQ friendly beef with a two pack short rib offering and a full brisket point. I picked up a couple of the short ribs, and whilst I would have preferred them to be a single rack rather than two individual cuts, they were far more impressive in size. If you see them in your local Sainsburys and don't have a decent local butcher, then I'd recommend grabbing some (stick them in the freezer if you aren't about to use them straight away). That said, the price (per weight) is about the same, so if you want smaller portions then Waitrose is likely your best bet.
+Here in the UK, short ribs are slowly becoming more common supermarkets. They are growing in popularity the last few years (high street chains such as _Pret_ offering a beef short rib mac'n'cheese dish), an increasing number of supermarkets offering them (as well as increasing in popularity in restaurants). Waitrose will offer individually cut and packaged beef short ribs, and have done for quite a while, although you have to rummage about to find some of decent size. In 2021, Sainsburys trialled stocking some more BBQ friendly beef with a two pack short rib offering and a full brisket point. I picked up a couple of the short ribs, and whilst I would have preferred them to be a single rack rather than two individual cuts, they were far more impressive in size. If you see them in your local Sainsburys and don't have a decent local butcher, then I'd recommend grabbing some (stick them in the freezer if you aren't about to use them straight away). That said, the price (per weight) is about the same, so if you want smaller portions then Waitrose is likely your best bet.
 
 <a href="https://www.sainsburys.co.uk/gol-ui/product/sainsburys-matured-british-beef-short-ribs-taste-the-difference-x2-approx-15kg-" target="_blank">Sainsburys pack of two ribs</a> is estimated at 1.5kg where as the <a href="https://www.waitrose.com/ecom/products/waitrose-british-beef-short-ribs/859587-373721-373722" target="_blank">Waitrose pack of two ribs</a> is estimated at 0.54kg!
 
 However, if you can go to the butcher for your ribs, you will probably be rewarded with far meatier ribs, and most likely better value for money. Not to mention the option to get the more impressive looking full racks (or as many bones as you need). A two or three bone rack makes for a more impressive cook than individual ribs (although not as favourable meat to bark ratio).
 
-In terms of portion sizing, if you are serving short ribs with nothing else, but some sides, then you probably want to allow a bone per person, but if you are putting on a bigger platter, a two to three bone rack can go pretty far. When I have been doing a big spread for lots of people, I will often have a three bone rack to share - easily sliceable or even shredded and goes quite a way.
+In terms of portion sizing, if you are serving short ribs with nothing else, but some sides, then you probably want to allow a bone per person, but if you are putting on a bigger platter, a two to three bone rack can go pretty far. When I have been doing a big spread for lots of people, I will often have a three bone rack to share - easily sliceable or even shredded and goes quite a long way.
 
 <br>
 <br>
@@ -73,16 +75,21 @@ Despite some myths that any fat cap left on the top of meat will _melt into the 
 
 The good thing about beef short ribs is they are packed with connective tissue and intramuscular fat that is going to make the meat beautifully moist and tender, without the need for the fat cap, so we can be ruthless in removing that (<a href="https://www.robbishfood.com/science/2021/04/23/science-meat-muscles-bbq/" target="_blank">see more details about the science of meat, connective tissue and fat here</a>).
 
+If you want to be extra frugal, that extra fat doesn't need to be wasted though! You can smoke or roast that fat in a roasting dish and use it as drippings for roast potatoes or adding back to cooked and wrapped meat at the end for extra moisture!
+
+
 ### 2.2 Apply dry rub
 Normally, before I apply my dry rub, I will apply a layer of yellow mustard (French's or Heinz) - this will just help the rub stick to the ribs a bit better, the mustard flavour won't be noticeable after cooking so you don't need to worry about people not liking that taste.
 
 Once the mustard is lightly smothered on to the ribs, I apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you don't have any BBQ rubs, a nice 50-50 blend of decent salt and cracked black pepper works great. The meat is really flavourful and robust enough to take on a strong smoke flavour too, so salt and pepper will compliment this perfect. If you are after some commercial rubs, <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/moo-mami-ultimate-umami-grilling-powder?utm_source=robbishfood" target="_blank">Angus & Oink Moo-mami</a> is an excellent pairing with beef, and <a href="https://www.goodrub.co.uk/products/good-rub-texas-af-central-texas-rub-190g-shaker?utm_source=robbishfood" target="_blank">Good Rub Texas AF rub</a> (basically a perfectly balanced salt and pepper mix) also recommended!
 
+Thankfully, supermarkets also often offer salt and pepper blends that will easily suffice and offers a slightly cheaper alternative than mainstream commercial rubs (which often lean on salt and pepper to do a lot of the heavy lifting anyway!)
+
 <br>
 <br>
 
 ## 3. How to smoke beef short ribs
-I am always wary when writing up BBQ recipes - I have several BBQ cook books, and inevitably they get to recipes for cooks such as beef short ribs, or beef brisket and the instruction is basically: _cook on indirect heat for 8-10 hours until done_).  In terms of describing the steps there really isn't much to it, but when it comes to actually cooking the results and timing can vary quite a bit.
+I am always wary when writing up BBQ recipes - I have several BBQ cook books, and inevitably they get to recipes for cooks such as beef short ribs, or beef brisket and the instruction is basically: _cook on indirect heat for 8-10 hours until done_).  In terms of describing the steps there really isn't much to it, we literally just cook it until its cooked and the connective tissue is broken down sufficiently, but when it comes to actually cooking the results and timing can vary quite a bit.
 
 Thankfully, if you know how to <a href="https://www.robbishfood.com/science/2021/02/27/science-low-slow-bbq/" target="_blank">low-and-slow smoke a large, tough cut of meat (short ribs, brisket, pork butt) then you know them all - the science behind these cuts are all the same</a>. We are cooking low and slow, so we can gradually reach our target internal temperature (96C/205F) that is enough to have melted all the connective tissue to make it beautifully soft, tender and tasty. The variation between them is just the times it takes.
 
