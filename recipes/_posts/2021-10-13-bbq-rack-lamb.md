@@ -1,6 +1,6 @@
 ---
 date: 2021-10-13
-last_modified_at: 2022-08-22
+last_modified_at: 2023-06-06
 title: How-to BBQ&#58; Rack of lamb
 categories:
  - howto
