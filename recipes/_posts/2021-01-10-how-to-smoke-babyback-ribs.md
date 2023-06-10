@@ -1,6 +1,6 @@
 ---
 date: 2021-01-10
-last_modified_at: 2021-11-05
+last_modified_at: 2023-06-09
 title: How-to BBQ&#58; Low-and-slow smoked babyback pork ribs
 categories:
  - howto
@@ -34,15 +34,15 @@ faqSchema:
     answer: "Pork ribs (babyback ribs, st louis cut, pork spare ribs) are best cooked low and slow between 110-135C/225-275F."
 ---
 
-Pork ribs are a great place to get started on your low-and-slow BBQ adventure. They are a usually pretty reasonably priced, a pretty forgiving, quick cook and always a crowd pleaser. This is a simple how-to on cooking pork ribs - I will mostly talk about babyback ribs, but the same principle applies to other pork ribs, such as spare-ribs (sometimes called St Louis cut ribs), but the timing on each step might be a little bit longer.
+Pork ribs are a great place to get started on your low-and-slow BBQ adventure. They are a usually pretty reasonably priced, a pretty forgiving, quick cook and always a crowd pleaser. This is a simple how-to on cooking pork ribs - I will mostly talk about babyback ribs, but the same principle applies to other pork ribs, such as spare-ribs (sometimes called St Louis cut ribs), but the timing on each step might be a little bit longer. Also, pork ribs are a familiar sight for even the most green of BBQ eaters, so they usually go down well!
 
-All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
+All these BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change (you can even do them in the oven with the same technique - if you aren't comfortable smoking or cooking _low-and-slow_ on your grill yet, you can follow this technique in your oven ahead of your BBQ and then just finish them on the grill a bit to reduce the sauce and get a bit of that authentic BBQ flavour - your guests will still be super impressed!).
 
 <br>
 <br>
 
 ## 1. How to buy babyback ribs
-Prepping babyback ribs or other racks of pork ribs follows the same process, so can be applied the same. If you want a rack of ribs your best bet is to go ask your local butcher - some supermarkets in the UK stock racks of ribs, but they are normally pretty small and not meaty at all. If you find some in your supermarket, you might be able to pick them up for about £3-4 so fine to pick up to experiment (although the butchers will likely be better value). If you are grabbing them from the supermarket look for the heaviest pack, as they will all be more or less the same length (and same number of ribs) so the heavier they are, the more meaty they will be.
+If you want a rack of ribs your best bet is to go ask your local butcher - some supermarkets in the UK stock racks of ribs, but they are normally pretty small and not meaty at all. If you find some in your supermarket, you might be able to pick them up for about £3-4 so fine to pick up to experiment (although the butchers will likely be better value). If you are grabbing them from the supermarket look for the heaviest pack, as they will all be more or less the same length (and same number of ribs) so the heavier they are, the more meaty they will be.
 
 What you are looking to avoid is what folks on the BBQ circuit call _shiners_. _Shiners_ are when there is exposed bone on the top of the ribs, ideally the whole rack will have a decent layer of meat across the top, covering all the bones. When I have bought them from the supermarket they are often pretty much all _shiners_, which means you are left with only the meat between the ribs. But, get whatever you can!
 
@@ -50,7 +50,7 @@ What you are looking to avoid is what folks on the BBQ circuit call _shiners_. _
 <br>
 
 ## 2. Preparing babyback ribs for cooking
-There are two steps to preparing ribs, and can be done in advance (normally a good idea to do this the day before cooking).
+Prepping babyback ribs or other racks of pork ribs follows the same process, so can be applied the same. There are two steps to preparing ribs, and can be done in advance (normally a good idea to do this the day before cooking).
 
 ### 2.1 Remove the silverskin
 On the underside of the ribs, there will be a fine, semi-translucent membrane (sometimes referred to as silverskin). Biologically, this is a connective tissue, holding things in place. Usually, in BBQ, we love connective tissue as it's our magic ingredient that makes BBQ so great, however, this is not the kind of connective tissue we like. This connective tissue is called _elastin_, and unfortunately not something we want, so we just need to remove this one.

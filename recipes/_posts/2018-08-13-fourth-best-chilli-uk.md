@@ -1,8 +1,8 @@
 ---
 date: 2018-08-13
-last_modified_at: 2021-11-05
+last_modified_at: 2023-06-09
 hidden: false
-title: 4th Best Chilli in the UK
+title: Ultimate guide to chilli-con-carne - Championship chilli recipe!
 categories:
   - Chilli
 featured_image: /images/chillicook.jpg
@@ -45,15 +45,15 @@ recipe:
     - Serve with rice, nachos, fajitas or whatever!
 ---
 
-This time last year, I was competing in one of the regional competitions for the UK Chilli Cook-off Assocation. An annual competition where competitors meet for 4 hours to try and create the best chilli (chilli-con-carne, but it doesn't necessarily have to be meat based!), a panel of four judges score the chillis to decide the winner. The winners then go through to the UK finals. The competitions, both regionals and finals are normally hosted by an existing food festival - so usually in a field under a marquee, with no power source and just hoping for good weather.
+For a few years, all pre-pandemic, I attended a few UK Chilli Cook-off competitions. An annual competition where competitors meet for 4 hours to try and create the best chilli (chilli-con-carne, but it doesn't necessarily have to be meat based!) and a panel of four judges score the chillis to decide the winner, with the winners going through to the UK finals. The competitions, both regionals and finals are normally hosted as part of a food festival - so usually in a field under a marquee, with no power source and just hoping for good weather. They were always great fun, but for one reason or another the UK Chilli Cook-Off Association seems to have paused, or at least reduced the amount of regional competitions they run. I keep hoping that they will re-instate them and I can get involved, but for now it seems they only do one a year, and that's down in Dorset, which is a little far for me.
 
-After taking bronze (third place) in the regionals earlier in the year, in the Gower Chilli Cook-off, I earned a spot in the UK finals. So last September I ended up competing in the UK finals of the Chilli cook off - just missing out on a spot on the podium (and a prize!) taking 4th spot, out of the 12 teams who had qualified through winning regionals. .
+Anyway, back in 2017 I managed to get on the winner's podium in the Gower Chilli Festival cook-off regional competition, which earned me a spot in the UK finals (which luckliy was relatively close to where I lived). So the following September I ended up competing in the UK finals of the Chilli cook off. The finals are basically the same format, but just a higher level of competition as they are all regional winners, thankfully the sun came out and it was another great day out. Unfortunately, I just missed out on a spot on the podium in the finals (and a prize!) taking 4th place (there were 12 teams competing who had qualified through winning regionals).
 <br>
 <br>
 ![UK Chilli Cook-off Score card]({{site/baseurl}}/images/chilliscorecard.jpg)
 
 
-My chilli was a fairly straight forward - a slow braise, with a range of different chilli peppers, using beef short rib, pork cheeks and chorizo.
+Anyway, this is more-or-less my championship-chilli recipe. A lot of this can be tweaked - the meat can be exchanged for most other slow-cook cuts of meat, the actual competition recipe uses beef short ribs, that I sear to get a nice crust, before roughly chopping and chucking in to braise.
 <br>
 <br>
 

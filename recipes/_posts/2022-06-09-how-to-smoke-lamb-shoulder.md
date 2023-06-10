@@ -1,6 +1,6 @@
 ---
 date: 2022-06-09
-last_modified_at: 2022-06-09
+last_modified_at: 2023-06-09
 title: How-to BBQ&#58; Smoked lamb shoulder (pulled lamb)
 categories:
  - howto
@@ -34,15 +34,15 @@ faqSchema:
 
 Lamb shoulder is another underrated cut of meat that I highly recommend adding to your BBQ rotation. Sure, lamb is often quite expensive compared to other meats, but its flavour is really something else and works so well on the BBQ. Lamb shoulder is also generally on the cheaper end of the various cuts of lamb on account of it being a fairly tough and usually fatty piece of meat.
 
-It can be used as a center piece for a traditional roast dinner, but it's not the easiest to carve and it also tends to have large bits of fat in it, which can result in one or two of your diners getting a chunk of fat for their protein.
+It can be used as a center-piece for a traditional roast dinner, but it's not the easiest to carve and it also tends to have large bits of fat in it, which can result in one or two of your diners getting a chunk of fat for their protein.
 
 Thankfully has a ready-made solution to this problem - pulling/shredding it. Just like pulled pork, if we shred the lamb and mix it up, those lumps of (delicious) fat are broken down and mixed through the meat - meaning no one just gets the fatty part and all the meat benefits from that flavour.
 
-Flavour wise, I really love the Moroccan/Lebanese kebab type flavours with lamb - cumin, cardamon, fennel etc - and Angus & Oink have a great Shawarma rub that always works. I will start posting some of my rub recipes this summer as I have a couple I use as go-to for lamb.
+Flavour wise, I really love the Moroccan/Lebanese kebab type flavours with lamb - cumin, cardamon, fennel etc - You can use my <a href="https://www.robbishfood.com/recipes/2023/06/06/moroccan-style-spice-mix/" target="_blank">favourite Moroccan style spice rub recipe</a> if you are looking for ideas.
 
 You can see a couple of my BBQ lamb shoulder cooks over <a href="https://www.instagram.com/p/CDo_SXBBqO1/" target="_blank">on my instagram, if you want to check out how good they look!</a>
 
-As usual, all my BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
+As usual, all my BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change. You can also do this inside, in your oven, and then last minute stick it on the grill (with a handful of smoking chips if you have them) to finisht up, if you aren't quite ready to cut _low-and-slow_ outside - it will still impress your guests no end!
 
 <br>
 <br>
@@ -59,12 +59,12 @@ Do make sure you buy a whole/half shoulder of lamb though - supermarkets have of
 ### 2.1 Trimming the fat [OPTIONAL]
 When you get you shoulder of lamb, there may be a layer of fat on the top that we will probably want to trim back a bit. You don't want to take too much fat off, as its a fatty cut and you might end up trimming of quite a bit. So just take back so its maybe 1/4 inch thick at the most. If you end up trimming it back to the meat that is absolutely fine.
 
-With lamb shoulder I really don't worry about being too precise. With something like beef short ribs I will take more care to trib the fat right back to the meat, but lamb shoulder its generally a quick job.
+With lamb shoulder I really don't worry about being too precise. With something like beef short ribs I will take more care to trim the fat right back to the meat, but lamb shoulder its generally a quick job.
 
 ### 2.2 Apply dry rub
 This is just the usual step, if you have read _any_ of my other BBQ write ups. Normally, before applying dry rub, I will apply a layer of yellow mustard (French's or Heinz) - this will just help the rub stick to the meat a bit better, the mustard flavour won't be noticeable after cooking so you don't need to worry about people not liking that taste. Really this step is optional, it doesn't make too much difference and the rub will still work fine without it to be honest.
 
-Once the mustard has been lightly applied (or not), next apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you want to make your own rubs then there are lots of recipes and options you can do, but if you want to play it safe for the first cook then a pre-bought rub is probably a good option. Angus & Oink here in the UK make lots of great rubs, and for lamb I'd highly recommend <a href="https://angusandoink.com/collections/bbq-rubs-injections/products/shawarma-seasoning?utm_source=robbishfood" target="_blank">Shawarma</a>
+Once the mustard has been lightly applied (or not), next apply a liberal dusting of the dry rub. This really should be quite a decent covering, so don't be shy here. If you want to make your own rubs then there are lots of recipes and options you can do, but if you want to play it safe for the first cook then a pre-bought rub is probably a good option. Angus & Oink here in the UK make lots of great rubs, and for lamb I'd recommend Shawarma. If you are interested in making your own rubs, then I'd recommend my <a href="https://www.robbishfood.com/recipes/2023/06/06/moroccan-style-spice-mix/" target="_blank">Mo'Rock'n'Roll - Moroccan style lamb rub</a>
 
 <br>
 <br>

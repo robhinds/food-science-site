@@ -1,6 +1,6 @@
 ---
 date: 2021-07-30
-last_modified_at: 2021-11-05
+last_modified_at: 2023-06-09
 title: How-to BBQ&#58; BBQ chicken wings
 categories:
  - howto
@@ -10,7 +10,7 @@ image: /images/chickenwings.jpg
 how_to_description: How to cook perfect chicken wings hot-and-fast or low and slow!
 how_to_name: How to cook perfect chicken wings
 recipe:
-  servings: Wings for 2-4 people (1 kg chicken wings)
+  servings: Wings for 2-4 people (depending on if they are a side or snack - at least 1 kg chicken wings, probably more!)
   prep: 10 minutes
   cook: 1 - 2 hours
   ingredients_markdown:
@@ -34,7 +34,7 @@ Who doesn't love chicken wings? They are great sharing food or as part of a BBQ 
 <br>
 
 ## 1. How to buy chicken wings
-Chicken wings are pretty widely available, and usually really cheap. Major supermarkets will normally sell a kilogram of chicken wings for less than £2, that said, you always have to question when meat is that cheap, so if you have a local butcher it is definitely worth the trip. Butchers won't be much more expensive per kilogram, but will usually be from better treated birds, which is a difference you will see in chicken wings. As there is such little meat on a chicken wing, that difference really stands out.
+Chicken wings are pretty widely available, and usually really cheap. Major supermarkets will normally sell a kilogram of chicken wings for less than £2, that said, you always have to question when meat is that cheap, so if you have a local butcher it is definitely worth the trip. Butchers won't be much more expensive per kilogram, but will usually be from better treated birds, which is a difference you will see in chicken wings. As there is such little meat on a chicken wing, that difference really stands out. Butchers will also often be able to sell you much bigger quantities, which might sound crazy, but from my experience, people can get through a lot of BBQ chicken wings! I'd say two people could easily get through a kilo of wings and still be ready to eat more, so depending on how many you are feeding and what else you are cooking a long with it, you might need a decent quantity!
 
 <br>
 <br>
@@ -53,9 +53,9 @@ If you want to make your own rubs then there are lots of recipes and options you
 <br>
 
 ## 3. How to smoke chicken wings
-When I smoke my chicken wings, I normally cook them low'n'slow, indirect for an hour or so with a bit of smoke, and then finish them up hot'n'fast direct over the coals. This gives us the advantage of slowly and evenly cooking the meat, keeping it moist and tender, and then the hot finish allows us to crisp up the skin and render the fat.
+When I smoke my chicken wings, I normally cook them _low-and-slow_, indirect for an hour or so with a bit of smoke, and then finish them up _hot-and-fast_ direct over the coals. This gives us the advantage of slowly and evenly cooking the meat, keeping it moist and tender, and then the hot finish allows us to crisp up the skin and render the fat.
 
-It is possible to finish the wings up fully on the smoker, but if you go this route you may find that by the time the wings are cooked, the skin is still slightly rubber-y, this will be because the skin hasn't rendered properly yet. It will be perfectly safe to eat, but I prefer the crisper finish.
+It is possible to finish the wings up fully on the smoker, but if you go this route you may find that by the time the wings are cooked, the skin is still slightly rubber-y, this will be because the skin hasn't rendered the fat properly at these temperatures yet. It will be perfectly safe to eat, but I prefer the crisper finish.
 
 <br>
 <br>

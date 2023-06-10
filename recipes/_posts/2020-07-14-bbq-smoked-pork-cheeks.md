@@ -1,8 +1,8 @@
 ---
 date: 2020-10-21
-last_modified_at: 2021-11-05
+last_modified_at: 2023-06-09
 hidden: false
-title: BBQ smoked pork cheeks
+title: BBQ smoked pork cheeks - A video walkthrough
 categories:
   - bbq
 featured_image: /images/linkin/porkcheeks.jpg
@@ -28,11 +28,18 @@ recipe:
 ---
 
 
-This isn't so much a recipe, as I'm not really going to go over the details of smoking meat, how to setup indirect cooking and the general 101 BBQ stuff - instead I'm going to go for a whistle stop tour of the cook, as pork cheeks are not the most common cook and might seem daunting if you have never tried them before.
+Pork cheeks are one of my favourite things to BBQ low-and-slow, I think. Writing this, I'm concerned that maybe I say that about everything, the problem with BBQ is that there are so many flipping tasty cooks, that when you sit down to think about and write about them, you remember how much you enjoy them. Anyway, I'm sticking to my guns, pork cheeks one of my favourites and certainly my favourite pork cuts on the BBQ.
 
-Thankfully though, the science is identical to other slow-twitch, hardworking muscles, and they cook exactly the same way - but as they are smaller pieces of meat it takes a lot less time as it takes less time for the heat energy to transfer to the centre of the meat and be fully cooked.
+If you aren't sure of this claim, let me try and convince you:
+1. Like pork-shoulder, they fall apart + pull beautifully and taste great
+2. They are smaller than pork shoulder (wayyyy smaller) so they cook far quicker than a full shoulder, but the amount of pulled pork yielded can be the same
+3. Because they are smaller you get a better ratio of bark surface to tender pulled pork, so more of that sweet-savoury-smokey goodness per bite, with the lovely soft and lubricated meat
+4. They're more unusual! It usually impresses guests as something a bit different that lots of people haven't tried before
 
-This cooks is basically I slightly shorter version of the 3-2-1 technique you might use for cooking meaty pork ribs - which makes sense as these little pieces have several similar properties of ribs (or shoulder for that matter)
+As with all recipes/cooks for _low-and-slow_ BBQ stuff on here you can apply the principles and technique however you cook - whether its a ceramic kamado BBQ like Kamado Joe or Big Green Egg, a bullet smoker like Weber Smokey Mountain, a pellet smoker such as Traeger or even cooking inside in your oven - temperature + time is what matters for these cooks (and smoke helps, of course!) so stick to the principles and you'll be fine.
+
+If you want to read the details about smoking pork cheeks, check out the full details here: <a href="https://www.robbishfood.com/recipes/howto/2022/06/06/how-to-smoke-pork-cheeks/" target="_blank">My ultimate guide to BBQ pork cheeks</a>
+
 <br>
 <br>
 ## 1. How to prep pork cheeks for smoking

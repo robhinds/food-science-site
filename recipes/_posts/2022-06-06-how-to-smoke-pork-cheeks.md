@@ -1,6 +1,6 @@
 ---
 date: 2022-06-06
-last_modified_at: 2022-06-06
+last_modified_at: 2023-06-09
 title: How-to BBQ&#58; Low-and-slow smoked pork cheeks
 categories:
  - howto
@@ -49,6 +49,8 @@ Here are some reasons why you _really_ need to start BBQing pork cheeks if you a
 You can see a couple of my BBQ pork cheek cooks over <a href="https://www.instagram.com/p/CCnSGchh016/?utm_source=ig_web_button_share_sheet" target="_blank">on my instagram, if you want to check out how good they look!</a>
 
 As usual, all my BBQ recipes will work equally well on a ceramic grill such as a Big Green Egg or Kamado Joe, a bullet smoker such as the Weber Smokey Mountain or a pellet grill such as Traeger or Broil King - no adaptation of the recipe or technique needs to change.
+
+If you prefer, I also have a <a href="https://www.robbishfood.com/recipes/bbq/2020/10/21/bbq-smoked-pork-cheeks/" target="_blank">video walkthrough of the process of smoking pork cheeks, step-by-step here</a>.
 
 <br>
 <br>
