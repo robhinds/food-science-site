@@ -12,6 +12,7 @@ recipe:
 It's true, a great BBQ sauce can elevate your grilled dishes from good to exceptional, but even better news is that it's really easy to make your own BBQ sauce that is just as good, if not better than your supsermarket staples. This means not only can you impress your guests with your homemade BBQ sauces (they won't believe its not shop bought), you can also very easily have control over all the ingredients - no chemicals, reduced salt, manage the spice levels. While there are plenty of commercial options available, nothing beats a homemade BBQ sauce tailored to your taste preferences. In this post, I'll go through the process of crafting your own ultimate BBQ sauce, once you know the basics, you can freely adapt them and adjust to make it however you like, want an apple BBQ sauce? Sure thing! Want it more smokey? You got it.
 
 If you want to checkout a couple example BBQ sauce recipes before diving straight into making your own, then you can check out my <a href="https://www.robbishfood.com/recipes/howto/2015/06/24/simple-bbq-sauce/" target="_blank">super simple beginners BBQ sauce</a> or my <a href="https://www.robbishfood.com/recipes/howto/2021/08/14/homemade-tomato-ketchup/" target="_blank">more advanced smokey BBQ sauce</a>
+<br/><br/>
 
 # Understanding the basics of BBQ sauce
 BBQ sauces generally fall into several regional categories, each with its own distinct flavor profile. Understanding these basics can help you decide on the direction for your custom blend:
@@ -20,6 +21,7 @@ BBQ sauces generally fall into several regional categories, each with its own di
 - Texas Style: Bold and spicy, often with a tomato and beef broth base.
 - Carolina Style: Vinegar-based, can be either mustard (South Carolina) or tomato (North Carolina) based.
 - Alabama White Sauce: A mayonnaise-based sauce with vinegar and pepper.
+
 In the UK, almost all the BBQ sauces you will get in the supermarket, and that you will likely be most familiar with is Kansas city style BBQ sauce. There are some brands, such as Sauce Shop that offer a decent Carolina Style sauce, that I do recommend with chicken if you see it in the supermarket (I picked some up just the other week from my Sainsburys)
 
 <br/>
@@ -93,5 +95,5 @@ Experiment! Don’t be afraid to try new ingredients like fruit purees, differen
 <br>
 
 <i>
-Photo by <a href="https://unsplash.com/@emergeartistry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Amie Johnson</a> on Unsplash
+Photo by <a href="https://unsplash.com/@emergeartistry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Amie Johnson</a> on Unsplash
 </i>
