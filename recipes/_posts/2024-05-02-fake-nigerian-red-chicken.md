@@ -4,8 +4,8 @@ last_modified_at: 2024-05-02
 title: Red chicken stew
 categories:
 layout: recipe-post
-featured_image: /images/redstew.jpeg
-image: /images/redstew.jpeg
+featured_image: /images/redstew.jpg
+image: /images/redstew.jpg
 how_to_description: How to make my version of red stew with chicken
 how_to_name: Homemade red chicken stew
 recipe:
